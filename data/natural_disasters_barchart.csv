@@ -1,0 +1,1605 @@
+"","Entity","Death.rates.from.disasters"
+"1","Afghanistan",2.633469972
+"2","Afghanistan",0.11212407
+"3","Afghanistan",0.39167353
+"4","Afghanistan",0.458817496
+"5","Afghanistan",5.830221618
+"6","Afghanistan",1.796376012
+"7","Afghanistan",0.793281579
+"8","Africa",0.841394126
+"9","Africa",5.989141316
+"10","Africa",1.735229295
+"11","Africa",0.001170074
+"12","Africa",2.456624243
+"13","Africa",0.088714697
+"14","Africa",0.560821603
+"15","Africa",3.075286972
+"16","Africa",10.96245909
+"17","Africa",0.137131805
+"18","Africa",0.160109901
+"19","Africa",0.300575285
+"20","Albania",1.395277451
+"21","Albania",0
+"22","Albania",2.074779192
+"23","Albania",1.471603312
+"24","Albania",0.373879232
+"25","Albania",0
+"26","Albania",0.141333613
+"27","Albania",0.133181126
+"28","Albania",0.42445965
+"29","Albania",0.046737203
+"30","Albania",0.048251625
+"31","Albania",0.228841275
+"32","Algeria",0.022205589
+"33","Algeria",4.530585302
+"34","Algeria",0
+"35","Algeria",0.328243732
+"36","Algeria",1.334746708
+"37","Algeria",0.1739609
+"38","Algeria",0.020178849
+"39","Algeria",1.468525183
+"40","Algeria",0.117555563
+"41","Algeria",1.139168606
+"42","Algeria",0.029025826
+"43","American Samoa",37.5
+"44","American Samoa",0
+"45","American Samoa",0
+"46","American Samoa",0
+"47","American Samoa",6.981861433
+"48","Angola",0
+"49","Angola",0
+"50","Angola",0.212612368
+"51","Angola",0.162507086
+"52","Anguilla",0
+"53","Anguilla",0
+"54","Anguilla",0
+"55","Anguilla",0
+"56","Anguilla",0
+"57","Anguilla",8.333333333
+"58","Anguilla",0
+"59","Anguilla",0
+"60","Anguilla",0
+"61","Anguilla",0
+"62","Anguilla",2.666666667
+"63","Antigua and Barbuda",0.434782609
+"64","Antigua and Barbuda",0.37037037
+"65","Antigua and Barbuda",0
+"66","Antigua and Barbuda",0.322580645
+"67","Antigua and Barbuda",0.830494342
+"68","Antigua and Barbuda",0
+"69","Antigua and Barbuda",0.105263158
+"70","Argentina",0.450202332
+"71","Argentina",0
+"72","Argentina",6.601007327
+"73","Argentina",0.181726401
+"74","Argentina",0.072399968
+"75","Argentina",0.154693748
+"76","Argentina",0.04853404
+"77","Argentina",0.038242289
+"78","Argentina",0.048478453
+"79","Argentina",0.044076722
+"80","Armenia",25.50068252
+"81","Armenia",0
+"82","Armenia",0
+"83","Armenia",0
+"84","Armenia",0
+"85","Armenia",0
+"86","Armenia",0.012767316
+"87","Armenia",0.003332223
+"88","Armenia",0
+"89","Asia",14.19384107
+"90","Asia",2.016026699
+"91","Asia",36.34293464
+"92","Asia",39.48567807
+"93","Asia",28.14221421
+"94","Asia",12.613291
+"95","Asia",8.938831135
+"96","Asia",3.216926457
+"97","Asia",0.345304698
+"98","Asia",1.032365055
+"99","Asia",1.652496675
+"100","Asia",0.261343958
+"101","Australia",0.101676866
+"102","Australia",0.066917768
+"103","Australia",0.07636919
+"104","Australia",0.566125704
+"105","Australia",0.129219107
+"106","Australia",0.133694514
+"107","Australia",0.081662476
+"108","Australia",0.275611695
+"109","Australia",0.110816366
+"110","Austria",0.342861123
+"111","Austria",0
+"112","Austria",0.019638649
+"113","Austria",0.086755996
+"114","Austria",0.082384576
+"115","Austria",0.472068709
+"116","Austria",0.02962532
+"117","Azerbaijan",0.458706299
+"118","Azerbaijan",0
+"119","Azerbaijan",0
+"120","Azerbaijan",0
+"121","Azerbaijan",0
+"122","Azerbaijan",0
+"123","Azerbaijan",0
+"124","Azerbaijan",0
+"125","Azerbaijan",0
+"126","Azerbaijan",0.022802427
+"127","Azerbaijan",0.051705035
+"128","Azerbaijan",0.008718178
+"129","Bahamas",0
+"130","Bahamas",2.221164525
+"131","Bahamas",3.058061467
+"132","Bahamas",0
+"133","Bahamas",0.342465753
+"134","Bahamas",0
+"135","Bahamas",0
+"136","Bahamas",0.184389545
+"137","Bahamas",0.43661837
+"138","Bahamas",10.06149642
+"139","Bangladesh",0.055914692
+"140","Bangladesh",0
+"141","Bangladesh",0.001814992
+"142","Bangladesh",0
+"143","Bangladesh",522.1764206
+"144","Bangladesh",0.161718896
+"145","Bangladesh",19.54826009
+"146","Bangladesh",52.00983097
+"147","Bangladesh",2.865124476
+"148","Bangladesh",13.80597095
+"149","Bangladesh",0.667966822
+"150","Bangladesh",0.110453441
+"151","Barbados",2.511013216
+"152","Barbados",0
+"153","Barbados",0.125523013
+"154","Barbados",0
+"155","Barbados",0
+"156","Barbados",0.036363636
+"157","Barbados",0.034965035
+"158","Belarus",0.00701082
+"159","Belarus",0.005229032
+"160","Belarus",0.051867569
+"161","Belgium",0.008288164
+"162","Belgium",0
+"163","Belgium",0
+"164","Belgium",0.074263391
+"165","Belgium",0
+"166","Belgium",0.017003173
+"167","Belgium",0.012847966
+"168","Belgium",0
+"169","Belgium",0.00202061
+"170","Belgium",0.024806363
+"171","Belgium",2.024400157
+"172","Belgium",0.997257053
+"173","Belize",293.8123127
+"174","Belize",0
+"175","Belize",2
+"176","Belize",28.94736842
+"177","Belize",0.35971223
+"178","Belize",0
+"179","Belize",0.391304348
+"180","Belize",2.10949233
+"181","Belize",0
+"182","Benin",0
+"183","Benin",0.005675369
+"184","Benin",0.142556672
+"185","Benin",0.062242584
+"186","Benin",0.040254078
+"187","Benin",0.055116355
+"188","Bermuda",0
+"189","Bermuda",0
+"190","Bermuda",0
+"191","Bermuda",0
+"192","Bermuda",0
+"193","Bermuda",0
+"194","Bermuda",0.606060606
+"195","Bhutan",0.733082707
+"196","Bhutan",3.723327793
+"197","Bhutan",0.014430014
+"198","Bolivia",0.188830197
+"199","Bolivia",0.157332834
+"200","Bolivia",0.506139868
+"201","Bolivia",0.397746461
+"202","Bolivia",0.518336556
+"203","Bolivia",0.431260348
+"204","Bosnia and Herzegovina",0
+"205","Bosnia and Herzegovina",0.029296564
+"206","Bosnia and Herzegovina",0.102290092
+"207","Botswana",0
+"208","Botswana",0
+"209","Botswana",0.066666667
+"210","Botswana",0.136147039
+"211","Botswana",0.018259282
+"212","Botswana",0.058167717
+"213","Brazil",0.059203951
+"214","Brazil",0.049842961
+"215","Brazil",0.31460531
+"216","Brazil",0.132562065
+"217","Brazil",0.14192931
+"218","Brazil",0.047625459
+"219","Brazil",0.060661067
+"220","Brazil",0.084810056
+"221","British Virgin Islands",0
+"222","British Virgin Islands",0
+"223","British Virgin Islands",3
+"224","Brunei",0
+"225","Bulgaria",0.181964341
+"226","Bulgaria",0
+"227","Bulgaria",0
+"228","Bulgaria",0
+"229","Bulgaria",0.013377113
+"230","Bulgaria",0.022722109
+"231","Bulgaria",0.003343363
+"232","Bulgaria",0.004817503
+"233","Bulgaria",0.131175708
+"234","Bulgaria",0.091779827
+"235","Burkina Faso",0
+"236","Burkina Faso",0
+"237","Burkina Faso",0
+"238","Burkina Faso",0
+"239","Burkina Faso",0
+"240","Burkina Faso",0
+"241","Burkina Faso",0
+"242","Burkina Faso",0.019147918
+"243","Burkina Faso",0.02772784
+"244","Burkina Faso",0.046514644
+"245","Burkina Faso",0.035790787
+"246","Burundi",0.022611645
+"247","Burundi",0.009573959
+"248","Burundi",0.213491378
+"249","Burundi",0.241741075
+"250","Cambodia",0
+"251","Cambodia",0.67979385
+"252","Cambodia",0.384276181
+"253","Cambodia",0.354767481
+"254","Cameroon",0
+"255","Cameroon",1.719377155
+"256","Cameroon",0.02206289
+"257","Cameroon",0.042745024
+"258","Cameroon",0.041833902
+"259","Canada",0.207647182
+"260","Canada",0.29096375
+"261","Canada",0.073971768
+"262","Canada",0.446333606
+"263","Canada",0.013487772
+"264","Canada",0.060527407
+"265","Canada",0.03099118
+"266","Canada",0.025020552
+"267","Canada",0.015989637
+"268","Canada",0.021302089
+"269","Canada",0.01334705
+"270","Canada",0.026242299
+"271","Cape Verde",968.5656423
+"272","Cape Verde",0
+"273","Cape Verde",1769.911504
+"274","Cape Verde",0
+"275","Cape Verde",2987.149499
+"276","Cape Verde",0
+"277","Cape Verde",0
+"278","Cape Verde",0
+"279","Cape Verde",1.049753235
+"280","Cape Verde",0
+"281","Cape Verde",0.061601643
+"282","Cape Verde",0.171428571
+"283","Cayman Islands",0.416666667
+"284","Central African Republic",0
+"285","Central African Republic",0
+"286","Central African Republic",0.021160822
+"287","Central African Republic",0.032345534
+"288","Central African Republic",0.011327026
+"289","Chad",0
+"290","Chad",0
+"291","Chad",0
+"292","Chad",0
+"293","Chad",0
+"294","Chad",0
+"295","Chad",0.030552291
+"296","Chad",6.742591326
+"297","Chad",0.066195604
+"298","Chad",0.196958865
+"299","Chad",0.068331667
+"300","Chile",62.13132823
+"301","Chile",0
+"302","Chile",3.096807627
+"303","Chile",59.37910829
+"304","Chile",0.260559227
+"305","Chile",0.021379704
+"306","Chile",8.592040007
+"307","Chile",0.160165437
+"308","Chile",0.432496085
+"309","Chile",0.239654799
+"310","Chile",0.093258983
+"311","Chile",0.491761064
+"312","China",0.35710198
+"313","China",3.770882153
+"314","China",79.37763372
+"315","China",88.27192222
+"316","China",1.109259642
+"317","China",31.48815919
+"318","China",0.046907268
+"319","China",3.147356343
+"320","China",0.196517248
+"321","China",0.224597327
+"322","China",0.727440989
+"323","China",0.107730114
+"324","Colombia",0.864309278
+"325","Colombia",0
+"326","Colombia",0.56862565
+"327","Colombia",0.020583546
+"328","Colombia",0.83377579
+"329","Colombia",0.507683153
+"330","Colombia",0.164396517
+"331","Colombia",0.893510998
+"332","Colombia",7.918890269
+"333","Colombia",0.570616132
+"334","Colombia",0.315114809
+"335","Colombia",0.367876492
+"336","Comoros",1.555352242
+"337","Comoros",0
+"338","Comoros",0
+"339","Comoros",0
+"340","Comoros",0
+"341","Comoros",30.67484663
+"342","Comoros",0
+"343","Comoros",0.036231884
+"344","Comoros",1.67508566
+"345","Comoros",0
+"346","Comoros",0.046057551
+"347","Comoros",0.149255669
+"348","Congo",1.262295082
+"349","Congo",0
+"350","Congo",0
+"351","Congo",0.006583278
+"352","Congo",0.018781505
+"353","Congo",0.042128603
+"354","Costa Rica",68.20636741
+"355","Costa Rica",0
+"356","Costa Rica",0
+"357","Costa Rica",0
+"358","Costa Rica",0.379511248
+"359","Costa Rica",0.637518061
+"360","Costa Rica",0.244860333
+"361","Costa Rica",0.168665852
+"362","Costa Rica",0.403876426
+"363","Costa Rica",0.22327326
+"364","Costa Rica",0.131323289
+"365","Cote d'Ivoire",0
+"366","Cote d'Ivoire",0.019093079
+"367","Cote d'Ivoire",0.01652058
+"368","Cote d'Ivoire",0.063143688
+"369","Croatia",0
+"370","Croatia",1.93148953
+"371","Croatia",0.025764407
+"372","Cuba",1.666238536
+"373","Cuba",6.212443351
+"374","Cuba",0.025967638
+"375","Cuba",0
+"376","Cuba",2.301845543
+"377","Cuba",0.037428083
+"378","Cuba",0.068300237
+"379","Cuba",0.077585654
+"380","Cuba",0.039163105
+"381","Cuba",0.038909592
+"382","Cyprus",0.779727096
+"383","Cyprus",0.04950495
+"384","Cyprus",0
+"385","Cyprus",0
+"386","Cyprus",0.595449019
+"387","Cyprus",0.090616254
+"388","Czechia",0.034830295
+"389","Czechia",0.469257046
+"390","Czechia",0.069051728
+"391","Czechoslovakia",0
+"392","Czechoslovakia",0
+"393","Democratic Republic of Congo",0.094857515
+"394","Democratic Republic of Congo",0.060621057
+"395","Democratic Republic of Congo",0
+"396","Democratic Republic of Congo",0.019180024
+"397","Democratic Republic of Congo",0.081260569
+"398","Democratic Republic of Congo",0.093995723
+"399","Denmark",0
+"400","Denmark",0.021467226
+"401","Denmark",0.015098097
+"402","Denmark",0.009238509
+"403","Denmark",0.003547357
+"404","Djibouti",0
+"405","Djibouti",0.843971631
+"406","Djibouti",2.331189711
+"407","Djibouti",0.660621762
+"408","Djibouti",0.133791402
+"409","Dominica",491.581664
+"410","Dominica",0
+"411","Dominica",0
+"412","Dominica",0
+"413","Dominica",5.333333333
+"414","Dominica",0.27027027
+"415","Dominica",0.281690141
+"416","Dominica",0.281690141
+"417","Dominica",13.23943662
+"418","Dominican Republic",15.51358098
+"419","Dominican Republic",0.367581895
+"420","Dominican Republic",0
+"421","Dominican Republic",1.30313711
+"422","Dominican Republic",2.524682652
+"423","Dominican Republic",0.086965465
+"424","Dominican Republic",0.523978545
+"425","Dominican Republic",1.035661727
+"426","Dominican Republic",0.054366543
+"427","Ecuador",0.207002159
+"428","Ecuador",0.911186201
+"429","Ecuador",18.86451301
+"430","Ecuador",0.333324628
+"431","Ecuador",0.092609743
+"432","Ecuador",0.263234253
+"433","Ecuador",5.884186891
+"434","Ecuador",0.677262609
+"435","Ecuador",0.220830222
+"436","Ecuador",0.483221257
+"437","Egypt",0.008421115
+"438","Egypt",0
+"439","Egypt",0
+"440","Egypt",0.008612152
+"441","Egypt",0.000593419
+"442","Egypt",0.016430485
+"443","Egypt",0.005770118
+"444","Egypt",0.214745415
+"445","Egypt",0.01701253
+"446","Egypt",0.025013641
+"447","El Salvador",15.14883678
+"448","El Salvador",0
+"449","El Salvador",4.91510277
+"450","El Salvador",0.396094245
+"451","El Salvador",0
+"452","El Salvador",3.423238425
+"453","El Salvador",0.917252798
+"454","El Salvador",2.660929747
+"455","El Salvador",0.127828629
+"456","Eritrea",0.013398839
+"457","Eritrea",0
+"458","Estonia",0.022123894
+"459","Estonia",0.060468632
+"460","Eswatini",9.008869396
+"461","Eswatini",0
+"462","Eswatini",0.028827965
+"463","Eswatini",0.100456621
+"464","Ethiopia",0.821835141
+"465","Ethiopia",32.24340188
+"466","Ethiopia",78.7483598
+"467","Ethiopia",0.08040277
+"468","Ethiopia",0.188336733
+"469","Ethiopia",0.020603357
+"470","Europe",1.778304971
+"471","Europe",0.665937949
+"472","Europe",0.064436299
+"473","Europe",0.048759373
+"474","Europe",0.026371103
+"475","Europe",0.137977601
+"476","Europe",0.078734525
+"477","Europe",0.072116229
+"478","Europe",0.10445856
+"479","Europe",0.085478987
+"480","Europe",1.1388524
+"481","Europe",0.90479552
+"482","Fiji",10.90845624
+"483","Fiji",0.264282253
+"484","Fiji",0.754098361
+"485","Fiji",0.065276397
+"486","Fiji",1.9723206
+"487","Fiji",1.294235197
+"488","Fiji",0.755728442
+"489","Fiji",0.844355092
+"490","Fiji",0.849289585
+"491","Finland",0
+"492","Finland",0
+"493","France",0.011162455
+"494","France",0
+"495","France",0.006845829
+"496","France",0.016749486
+"497","France",0.019244822
+"498","France",0.007837166
+"499","France",0.010311977
+"500","France",0.02995563
+"501","France",0.02761543
+"502","France",0.063443429
+"503","France",3.482543227
+"504","France",0.759022401
+"505","French Guiana",0
+"506","French Guiana",0.613496933
+"507","French Guiana",0
+"508","French Polynesia",0
+"509","French Polynesia",0
+"510","French Polynesia",0
+"511","French Polynesia",0.953921035
+"512","French Polynesia",0.560344828
+"513","French Polynesia",0
+"514","French Polynesia",0.037593985
+"515","Gabon",0
+"516","Gabon",0
+"517","Gabon",0
+"518","Gabon",0.005714286
+"519","Gambia",0
+"520","Gambia",0
+"521","Gambia",0
+"522","Gambia",0
+"523","Gambia",0
+"524","Gambia",0
+"525","Gambia",0
+"526","Gambia",0
+"527","Gambia",0.415035239
+"528","Gambia",0.070138282
+"529","Gambia",0.104514549
+"530","Georgia",0.033646273
+"531","Georgia",0.016454118
+"532","Georgia",0.128859387
+"533","Germany",0.019552979
+"534","Germany",1.163691866
+"535","Germany",0.007219511
+"536","Ghana",0.057516641
+"537","Ghana",0
+"538","Ghana",0
+"539","Ghana",0
+"540","Ghana",0
+"541","Ghana",0.00800594
+"542","Ghana",0.116153823
+"543","Ghana",0.048984248
+"544","Ghana",0.0764786
+"545","Greece",0.007855551
+"546","Greece",0.025692033
+"547","Greece",0.166516505
+"548","Greece",0.267087443
+"549","Greece",0.006576814
+"550","Greece",0.749942478
+"551","Greece",0.169603164
+"552","Greece",0.098190153
+"553","Greece",1.178443448
+"554","Greece",0.224669106
+"555","Greece",0.127781654
+"556","Greece",0.142192842
+"557","Grenada",0.64516129
+"558","Grenada",0
+"559","Grenada",0
+"560","Grenada",0
+"561","Grenada",3.75
+"562","Grenada",0
+"563","Guadeloupe",0
+"564","Guadeloupe",0
+"565","Guadeloupe",0
+"566","Guadeloupe",0
+"567","Guadeloupe",1.292645104
+"568","Guadeloupe",0
+"569","Guadeloupe",0.131233596
+"570","Guadeloupe",0.095011876
+"571","Guadeloupe",0.024630542
+"572","Guadeloupe",0.1
+"573","Guam",0.857142857
+"574","Guam",0.947368421
+"575","Guam",0
+"576","Guam",0.072992701
+"577","Guam",0.126985407
+"578","Guatemala",63.51751531
+"579","Guatemala",16.01028525
+"580","Guatemala",0
+"581","Guatemala",0
+"582","Guatemala",134.8379905
+"583","Guatemala",0
+"584","Guatemala",0.492133187
+"585","Guatemala",34.86195573
+"586","Guatemala",0.923865541
+"587","Guatemala",0.481622768
+"588","Guatemala",1.451210017
+"589","Guatemala",0.752751625
+"590","Guinea",0.529355149
+"591","Guinea",0.015265233
+"592","Guinea",0.017553652
+"593","Guinea",0.021845095
+"594","Guinea-Bissau",0
+"595","Guinea-Bissau",0
+"596","Guinea-Bissau",0
+"597","Guinea-Bissau",0
+"598","Guinea-Bissau",0
+"599","Guinea-Bissau",0
+"600","Guinea-Bissau",0
+"601","Guinea-Bissau",0.010952903
+"602","Guinea-Bissau",0.025996534
+"603","Guinea-Bissau",0.022848439
+"604","Guinea-Bissau",0.029140514
+"605","Guyana",0
+"606","Guyana",0
+"607","Guyana",0
+"608","Guyana",0.455764075
+"609","Guyana",0
+"610","Haiti",0.833364353
+"611","Haiti",8.096022879
+"612","Haiti",0
+"613","Haiti",8.236386594
+"614","Haiti",0
+"615","Haiti",2.097700645
+"616","Haiti",14.83095875
+"617","Haiti",0.175749731
+"618","Haiti",0.788008281
+"619","Haiti",1.84789848
+"620","Haiti",7.210578456
+"621","Haiti",224.5873159
+"622","High income",3.051143574
+"623","High income",0.786458906
+"624","High income",2.919290152
+"625","High income",0.999757012
+"626","High income",0.429901803
+"627","High income",0.420319117
+"628","High income",0.265778033
+"629","High income",0.126094676
+"630","High income",0.16242623
+"631","High income",0.158785341
+"632","High income",0.781786879
+"633","High income",0.314321227
+"634","Honduras",14.67068709
+"635","Honduras",0
+"636","Honduras",0
+"637","Honduras",1.312022901
+"638","Honduras",35.64744515
+"639","Honduras",0.393788571
+"640","Honduras",24.64336507
+"641","Honduras",0.249571233
+"642","Honduras",0.252596102
+"643","Hong Kong",260.5489767
+"644","Hong Kong",0
+"645","Hong Kong",1.48461567
+"646","Hong Kong",87.20780431
+"647","Hong Kong",11.6556841
+"648","Hong Kong",0.175729068
+"649","Hong Kong",1.472228852
+"650","Hong Kong",1.046094958
+"651","Hong Kong",0.162836942
+"652","Hong Kong",0.196666159
+"653","Hong Kong",0.008854087
+"654","Hong Kong",0.001435544
+"655","Hungary",0.289407679
+"656","Hungary",0.003767543
+"657","Hungary",0.046833837
+"658","Hungary",0.659692604
+"659","Hungary",0.201611967
+"660","Iceland",0.601010101
+"661","Iceland",0.169491525
+"662","Iceland",1.268656716
+"663","Iceland",0
+"664","Iceland",0
+"665","India",52.22995624
+"666","India",0.01146234
+"667","India",0.074108245
+"668","India",1.982580615
+"669","India",46.5298909
+"670","India",0.171733734
+"671","India",30.34983493
+"672","India",0.577977327
+"673","India",0.259505894
+"674","India",0.493738614
+"675","India",0.522215158
+"676","India",0.166171786
+"677","Indonesia",4.381394825
+"678","Indonesia",0.192893919
+"679","Indonesia",0.501985591
+"680","Indonesia",0.033084647
+"681","Indonesia",0.297397619
+"682","Indonesia",1.137605705
+"683","Indonesia",0.341821903
+"684","Indonesia",0.20791408
+"685","Indonesia",0.28322563
+"686","Indonesia",7.993106079
+"687","Indonesia",0.312494931
+"688","Iran",5.088776069
+"689","Iran",0.656456456
+"690","Iran",5.041916693
+"691","Iran",2.34294166
+"692","Iran",0.866542146
+"693","Iran",5.818427684
+"694","Iran",9.48003005
+"695","Iran",9.223545383
+"696","Iran",1.205885385
+"697","Iran",7.775459671
+"698","Iran",4.191706809
+"699","Iran",0.136085832
+"700","Iraq",0
+"701","Iraq",0
+"702","Iraq",0
+"703","Iraq",0
+"704","Iraq",0.011180055
+"705","Iraq",0.009385949
+"706","Iraq",0.033500325
+"707","Ireland",0.060029444
+"708","Ireland",0.046544063
+"709","Ireland",0.002643405
+"710","Ireland",0.012817429
+"711","Israel",0.535180061
+"712","Israel",0
+"713","Israel",0
+"714","Israel",0
+"715","Israel",0
+"716","Israel",0
+"717","Israel",0
+"718","Israel",0.071073205
+"719","Israel",0
+"720","Israel",0.037840114
+"721","Israel",0.005045409
+"722","Israel",0.082106804
+"723","Italy",21.25174812
+"724","Italy",7.950689288
+"725","Italy",0.400387401
+"726","Italy",0.470939006
+"727","Italy",0.028394211
+"728","Italy",0.117430913
+"729","Italy",0.469847175
+"730","Italy",0.205058154
+"731","Italy",0.910117144
+"732","Italy",0.058507476
+"733","Italy",3.568569231
+"734","Italy",0.085684022
+"735","Jamaica",21.08799627
+"736","Jamaica",2.391709571
+"737","Jamaica",0.044996299
+"738","Jamaica",1.904151159
+"739","Jamaica",1.288078721
+"740","Jamaica",1.071677105
+"741","Jamaica",0.064553991
+"742","Jamaica",0.236785536
+"743","Jamaica",0.529714114
+"744","Jamaica",0.113660525
+"745","Jamaica",0.201048663
+"746","Jamaica",0.056899432
+"747","Japan",0.057862104
+"748","Japan",1.255001469
+"749","Japan",25.77216084
+"750","Japan",1.059737659
+"751","Japan",2.89965413
+"752","Japan",1.95561578
+"753","Japan",0.308662509
+"754","Japan",0.147069212
+"755","Japan",0.132952702
+"756","Japan",0.487865808
+"757","Japan",0.063843276
+"758","Japan",1.710892581
+"759","Jordan",6.773355439
+"760","Jordan",0
+"761","Jordan",0
+"762","Jordan",0
+"763","Jordan",2.350437234
+"764","Jordan",0
+"765","Jordan",0.028735632
+"766","Jordan",0.068427697
+"767","Jordan",0.026973292
+"768","Jordan",0.034119418
+"769","Kazakhstan",0.961979574
+"770","Kazakhstan",0
+"771","Kazakhstan",0
+"772","Kazakhstan",0
+"773","Kazakhstan",0
+"774","Kazakhstan",0
+"775","Kazakhstan",0
+"776","Kazakhstan",0
+"777","Kazakhstan",0.076891623
+"778","Kazakhstan",0.036104675
+"779","Kazakhstan",0.03231422
+"780","Kenya",0
+"781","Kenya",0.068310677
+"782","Kenya",0.064856162
+"783","Kenya",0.088336837
+"784","Kenya",0.192448281
+"785","Kenya",0.20496569
+"786","Kiribati",0.566037736
+"787","Kiribati",0
+"788","Kiribati",0
+"789","Kiribati",0
+"790","Kiribati",0
+"791","Kuwait",0.011695906
+"792","Kuwait",0
+"793","Kuwait",0.002417211
+"794","Kyrgyzstan",0.490795409
+"795","Kyrgyzstan",0.34991849
+"796","Kyrgyzstan",0.067231836
+"797","Laos",1.237833966
+"798","Laos",0.148510564
+"799","Laos",0.039040714
+"800","Laos",0.202673445
+"801","Laos",0.084020876
+"802","Laos",0.343124837
+"803","Latvia",0.024916944
+"804","Latvia",0.331688367
+"805","Latvia",0.048332528
+"806","Lebanon",3.730648522
+"807","Lebanon",0
+"808","Lebanon",0
+"809","Lebanon",0.076277651
+"810","Lebanon",0.081274382
+"811","Lebanon",0.002097755
+"812","Lebanon",0.033898258
+"813","Lesotho",0
+"814","Lesotho",0
+"815","Lesotho",0.112781955
+"816","Lesotho",0.129107981
+"817","Lesotho",0.004911591
+"818","Lesotho",0.129740519
+"819","Liberia",0.231271996
+"820","Liberia",0.039729837
+"821","Liberia",0.008216154
+"822","Liberia",0.002570033
+"823","Libya",1.866832607
+"824","Libya",0
+"825","Libya",0
+"826","Libya",0
+"827","Libya",0
+"828","Libya",0.031218772
+"829","Lithuania",0.112688894
+"830","Lithuania",0.057570524
+"831","Lithuania",0.145149809
+"832","Low income",0.019079942
+"833","Low income",10.93760064
+"834","Low income",0
+"835","Low income",0.232533892
+"836","Low income",0
+"837","Low income",0.23434776
+"838","Low income",0.569333127
+"839","Low income",6.132478454
+"840","Low income",22.24932109
+"841","Low income",0.547966507
+"842","Low income",0.430503222
+"843","Low income",4.772542536
+"844","Lower middle income",29.53552643
+"845","Lower middle income",0.037292637
+"846","Lower middle income",0.635146859
+"847","Lower middle income",2.263406817
+"848","Lower middle income",56.07297964
+"849","Lower middle income",0.358518851
+"850","Lower middle income",16.89199762
+"851","Lower middle income",3.68648675
+"852","Lower middle income",0.458961539
+"853","Lower middle income",1.354101722
+"854","Lower middle income",1.455023251
+"855","Lower middle income",0.245545225
+"856","Luxembourg",0
+"857","Luxembourg",0
+"858","Luxembourg",3.803131991
+"859","Luxembourg",0
+"860","Macao",0
+"861","Macao",0
+"862","Macao",0.160513644
+"863","Madagascar",0.17304205
+"864","Madagascar",0.364845521
+"865","Madagascar",0.651688162
+"866","Madagascar",0.32012862
+"867","Madagascar",0.566330112
+"868","Madagascar",0.276068276
+"869","Malawi",0
+"870","Malawi",0
+"871","Malawi",0.024239753
+"872","Malawi",0.496473264
+"873","Malawi",0.516132969
+"874","Malawi",0.222404077
+"875","Malaysia",0.076461253
+"876","Malaysia",0.05646057
+"877","Malaysia",0.031281826
+"878","Malaysia",0.215729025
+"879","Malaysia",0.0810808
+"880","Malaysia",0.025744252
+"881","Maldives",0
+"882","Maldives",0
+"883","Maldives",3.279742765
+"884","Maldives",0
+"885","Mali",0
+"886","Mali",0
+"887","Mali",0
+"888","Mali",0
+"889","Mali",0
+"890","Mali",0
+"891","Mali",0
+"892","Mali",0.022007996
+"893","Mali",0.004774643
+"894","Mali",0.04828841
+"895","Mali",0.04087085
+"896","Marshall Islands",0
+"897","Marshall Islands",0
+"898","Marshall Islands",0
+"899","Martinique",0
+"900","Martinique",0
+"901","Martinique",0
+"902","Martinique",0
+"903","Martinique",0
+"904","Martinique",0
+"905","Martinique",0.802445349
+"906","Martinique",1.384615385
+"907","Martinique",0
+"908","Martinique",0.278408742
+"909","Martinique",0.050251256
+"910","Martinique",0.025510204
+"911","Mauritania",0
+"912","Mauritania",0
+"913","Mauritania",0
+"914","Mauritania",0
+"915","Mauritania",0
+"916","Mauritania",0
+"917","Mauritania",0
+"918","Mauritania",0
+"919","Mauritania",0.023060289
+"920","Mauritania",0.156301412
+"921","Mauritania",0.069613854
+"922","Mauritius",0.636363636
+"923","Mauritius",0.176836937
+"924","Mauritius",0.019570239
+"925","Mauritius",0.044223024
+"926","Mauritius",0.041165858
+"927","Mauritius",0.087649402
+"928","Mexico",0.029707928
+"929","Mexico",0.465040437
+"930","Mexico",0.239583002
+"931","Mexico",0.369262692
+"932","Mexico",1.205665825
+"933","Mexico",0.197976184
+"934","Mexico",0.267907245
+"935","Mexico",1.436086425
+"936","Mexico",0.335695438
+"937","Mexico",0.071870322
+"938","Mexico",0.104220657
+"939","Micronesia",0
+"940","Micronesia",0
+"941","Micronesia",0
+"942","Micronesia",0
+"943","Moldova",0.135703808
+"944","Moldova",0.045703455
+"945","Moldova",0.026981238
+"946","Mongolia",13.48314607
+"947","Mongolia",0.5
+"948","Mongolia",0
+"949","Mongolia",0
+"950","Mongolia",0.529599878
+"951","Mongolia",0.548601881
+"952","Mongolia",0.091801467
+"953","Montenegro",0
+"954","Montenegro",0.015974441
+"955","Montserrat",0
+"956","Montserrat",0
+"957","Montserrat",0
+"958","Montserrat",0
+"959","Montserrat",0
+"960","Montserrat",0
+"961","Montserrat",10
+"962","Montserrat",40
+"963","Montserrat",0
+"964","Morocco",0.201109926
+"965","Morocco",0
+"966","Morocco",0
+"967","Morocco",0
+"968","Morocco",0
+"969","Morocco",0.171247719
+"970","Morocco",9.97311214
+"971","Morocco",0.020690074
+"972","Morocco",0.013445094
+"973","Morocco",0.32888822
+"974","Morocco",0.28197551
+"975","Morocco",0.041226907
+"976","Mozambique",0.161338963
+"977","Mozambique",0
+"978","Mozambique",0.864520202
+"979","Mozambique",84.15349053
+"980","Mozambique",0.253874763
+"981","Mozambique",0.626126415
+"982","Mozambique",0.409722097
+"983","Myanmar",0.571630166
+"984","Myanmar",0
+"985","Myanmar",1.954735171
+"986","Myanmar",1.046078394
+"987","Myanmar",0.008999917
+"988","Myanmar",0
+"989","Myanmar",0.57594415
+"990","Myanmar",0.099277211
+"991","Myanmar",0.005365583
+"992","Myanmar",0.042071042
+"993","Myanmar",27.81163803
+"994","Myanmar",0.174111895
+"995","Namibia",0
+"996","Namibia",0
+"997","Namibia",0.718564896
+"998","Namibia",0.538449068
+"999","Nepal",0.065509335
+"1000","Nepal",0.450892915
+"1001","Nepal",0.683779234
+"1002","Nepal",1.543032151
+"1003","Nepal",1.341771665
+"1004","Nepal",0.786863768
+"1005","Nepal",4.011213141
+"1006","Netherlands",1.917177914
+"1007","Netherlands",0
+"1008","Netherlands",0
+"1009","Netherlands",0
+"1010","Netherlands",0.015943525
+"1011","Netherlands",1.210638305
+"1012","Netherlands",0.237500562
+"1013","Netherlands Antilles",0
+"1014","Netherlands Antilles",0
+"1015","Netherlands Antilles",0
+"1016","Netherlands Antilles",0
+"1017","Netherlands Antilles",0
+"1018","New Caledonia",0
+"1019","New Caledonia",0
+"1020","New Caledonia",0.591137771
+"1021","New Caledonia",0
+"1022","New Caledonia",0.260869565
+"1023","New Caledonia",0.391869323
+"1024","New Caledonia",0
+"1025","New Caledonia",0.087336245
+"1026","New Zealand",0
+"1027","New Zealand",0.115493367
+"1028","New Zealand",1.825521261
+"1029","New Zealand",0
+"1030","New Zealand",0.735294118
+"1031","New Zealand",0.193642674
+"1032","New Zealand",0
+"1033","New Zealand",0.054402929
+"1034","New Zealand",0.064268644
+"1035","New Zealand",0.017227552
+"1036","New Zealand",0.468937413
+"1037","Nicaragua",24.4747066
+"1038","Nicaragua",0
+"1039","Nicaragua",3.753753754
+"1040","Nicaragua",1.833051325
+"1041","Nicaragua",39.2741046
+"1042","Nicaragua",0.530824602
+"1043","Nicaragua",7.486160728
+"1044","Nicaragua",0.526751352
+"1045","Nicaragua",0.257402216
+"1046","Niger",0
+"1047","Niger",414.2195227
+"1048","Niger",0
+"1049","Niger",0
+"1050","Niger",0
+"1051","Niger",0
+"1052","Niger",0
+"1053","Niger",0
+"1054","Niger",0.026497085
+"1055","Niger",0.078253809
+"1056","Niger",0.028062996
+"1057","Niger",0.21404703
+"1058","Nigeria",0.014435847
+"1059","Nigeria",0.014381326
+"1060","Nigeria",0.021783528
+"1061","Nigeria",0.047073152
+"1062","Nigeria",0.062001792
+"1063","North America",4.656066801
+"1064","North America",0.769874266
+"1065","North America",0.448879604
+"1066","North America",1.257974838
+"1067","North America",1.966362976
+"1068","North America",0.462720372
+"1069","North America",0.575980252
+"1070","North America",1.753105183
+"1071","North America",0.597115928
+"1072","North America",0.788151675
+"1073","North America",0.420943026
+"1074","North America",5.475085769
+"1075","North Korea",0.162103746
+"1076","North Korea",0.127046143
+"1077","North Korea",0.533562195
+"1078","North Korea",0.442617992
+"1079","North Macedonia",0
+"1080","North Macedonia",0.165781995
+"1081","North Macedonia",0.163436217
+"1082","Northern Mariana Islands",0.526315789
+"1083","Northern Mariana Islands",0.350877193
+"1084","Norway",0.251444428
+"1085","Norway",0
+"1086","Norway",0
+"1087","Norway",0
+"1088","Norway",0
+"1089","Norway",0
+"1090","Norway",0.002289902
+"1091","Norway",0
+"1092","Norway",0.009943156
+"1093","Oceania",0
+"1094","Oceania",0.017411479
+"1095","Oceania",1.080766793
+"1096","Oceania",0.051234746
+"1097","Oceania",4.917950431
+"1098","Oceania",0.60452619
+"1099","Oceania",0.327830424
+"1100","Oceania",0.259793639
+"1101","Oceania",0.967377384
+"1102","Oceania",0.365140766
+"1103","Oceania",0.238499187
+"1104","Oman",1.09406953
+"1105","Oman",0.212940213
+"1106","Oman",0
+"1107","Oman",0.441748916
+"1108","Oman",0.131057951
+"1109","Pakistan",0.117190901
+"1110","Pakistan",0
+"1111","Pakistan",0
+"1112","Pakistan",23.52515325
+"1113","Pakistan",1.252891831
+"1114","Pakistan",1.007712485
+"1115","Pakistan",2.060580562
+"1116","Pakistan",1.050917046
+"1117","Pakistan",0.123455808
+"1118","Pakistan",0.541651794
+"1119","Pakistan",4.8014875
+"1120","Pakistan",0.397970927
+"1121","Palau",0
+"1122","Palestine",0
+"1123","Palestine",0.022675996
+"1124","Panama",0.155547478
+"1125","Panama",0.459193871
+"1126","Panama",0.140058462
+"1127","Panama",0.230370044
+"1128","Panama",0.201220081
+"1129","Panama",0.114540442
+"1130","Papua New Guinea",3.286418518
+"1131","Papua New Guinea",0
+"1132","Papua New Guinea",29.83590254
+"1133","Papua New Guinea",0
+"1134","Papua New Guinea",0.442153667
+"1135","Papua New Guinea",0.34559449
+"1136","Papua New Guinea",4.730891036
+"1137","Papua New Guinea",0.412218384
+"1138","Papua New Guinea",0.338771308
+"1139","Paraguay",0.027624309
+"1140","Paraguay",0
+"1141","Paraguay",0.219083309
+"1142","Paraguay",0.196706782
+"1143","Paraguay",0.034944764
+"1144","Paraguay",0.104699624
+"1145","Peru",0.423372798
+"1146","Peru",0
+"1147","Peru",0.057802023
+"1148","Peru",10.43201164
+"1149","Peru",0.313745991
+"1150","Peru",2.310875943
+"1151","Peru",50.90837374
+"1152","Peru",1.092920997
+"1153","Peru",0.647913559
+"1154","Peru",0.735722265
+"1155","Peru",0.61368586
+"1156","Philippines",0.33961359
+"1157","Philippines",1.796081843
+"1158","Philippines",0.016419962
+"1159","Philippines",0.963824153
+"1160","Philippines",0.804583677
+"1161","Philippines",1.591721982
+"1162","Philippines",0.823087048
+"1163","Philippines",3.302205275
+"1164","Philippines",1.588779845
+"1165","Philippines",2.19563455
+"1166","Philippines",1.088133029
+"1167","Philippines",1.400611767
+"1168","Poland",0.029871769
+"1169","Poland",0
+"1170","Poland",0
+"1171","Poland",0
+"1172","Poland",0
+"1173","Poland",0
+"1174","Poland",0
+"1175","Poland",0.096301056
+"1176","Poland",0.305955606
+"1177","Poland",0.195252853
+"1178","Portugal",0.05128782
+"1179","Portugal",0
+"1180","Portugal",0
+"1181","Portugal",0
+"1182","Portugal",0.187533612
+"1183","Portugal",0
+"1184","Portugal",0.558612819
+"1185","Portugal",0.03615551
+"1186","Portugal",0.149706804
+"1187","Portugal",0.076660713
+"1188","Portugal",3.105549754
+"1189","Portugal",0.168603329
+"1190","Puerto Rico",0
+"1191","Puerto Rico",0
+"1192","Puerto Rico",0
+"1193","Puerto Rico",0
+"1194","Puerto Rico",0
+"1195","Puerto Rico",0
+"1196","Puerto Rico",0.329200909
+"1197","Puerto Rico",1.9218127
+"1198","Puerto Rico",0.107478701
+"1199","Puerto Rico",0.01918002
+"1200","Puerto Rico",0.214300896
+"1201","Qatar",0
+"1202","Reunion",0
+"1203","Reunion",0
+"1204","Reunion",0
+"1205","Reunion",0
+"1206","Reunion",1.02727927
+"1207","Reunion",0.216049383
+"1208","Reunion",0.051858921
+"1209","Reunion",0.011668611
+"1210","Romania",0
+"1211","Romania",0
+"1212","Romania",0.755495479
+"1213","Romania",0
+"1214","Romania",0.623575916
+"1215","Romania",0
+"1216","Romania",0
+"1217","Romania",0.875258464
+"1218","Romania",0
+"1219","Romania",0.138706521
+"1220","Romania",0.237723023
+"1221","Romania",0.103260716
+"1222","Russia",0.22470266
+"1223","Russia",0.127493515
+"1224","Russia",3.929687851
+"1225","Rwanda",0
+"1226","Rwanda",0.393403751
+"1227","Rwanda",0
+"1228","Rwanda",0.246542131
+"1229","Rwanda",0.227741304
+"1230","Saint Barthelemy",0
+"1231","Saint Helena, Ascension and Tristan da Cunha",0
+"1232","Saint Kitts and Nevis",0
+"1233","Saint Kitts and Nevis",0
+"1234","Saint Kitts and Nevis",0
+"1235","Saint Kitts and Nevis",0
+"1236","Saint Kitts and Nevis",0
+"1237","Saint Kitts and Nevis",0
+"1238","Saint Kitts and Nevis",0.25
+"1239","Saint Kitts and Nevis",1.162790698
+"1240","Saint Kitts and Nevis",0
+"1241","Saint Kitts and Nevis",0
+"1242","Saint Lucia",1.075268817
+"1243","Saint Lucia",0
+"1244","Saint Lucia",0.762711864
+"1245","Saint Lucia",0.275862069
+"1246","Saint Lucia",0.05952381
+"1247","Saint Lucia",1.141676353
+"1248","Saint Martin (French Part)",0
+"1249","Saint Vincent and the Grenadines",336.5519021
+"1250","Saint Vincent and the Grenadines",0
+"1251","Saint Vincent and the Grenadines",0
+"1252","Saint Vincent and the Grenadines",0
+"1253","Saint Vincent and the Grenadines",0
+"1254","Saint Vincent and the Grenadines",16.48648649
+"1255","Saint Vincent and the Grenadines",0.227272727
+"1256","Saint Vincent and the Grenadines",0.2
+"1257","Saint Vincent and the Grenadines",0
+"1258","Saint Vincent and the Grenadines",0.277777778
+"1259","Saint Vincent and the Grenadines",0.37037037
+"1260","Saint Vincent and the Grenadines",1.19266055
+"1261","Samoa",21.08856203
+"1262","Samoa",0
+"1263","Samoa",0
+"1264","Samoa",1.283480473
+"1265","Samoa",8.555865922
+"1266","Samoa",0.634920635
+"1267","Sao Tome and Principe",0
+"1268","Saudi Arabia",0.042762455
+"1269","Saudi Arabia",0
+"1270","Saudi Arabia",0.024392103
+"1271","Saudi Arabia",0
+"1272","Saudi Arabia",0.103129492
+"1273","Saudi Arabia",0.053831734
+"1274","Senegal",0
+"1275","Senegal",0
+"1276","Senegal",0
+"1277","Senegal",0
+"1278","Senegal",0
+"1279","Senegal",0
+"1280","Senegal",0
+"1281","Senegal",0
+"1282","Senegal",0.195422719
+"1283","Senegal",0.049208718
+"1284","Senegal",0.028575749
+"1285","Serbia",0
+"1286","Serbia",0.107704724
+"1287","Serbia-Montenegro",0
+"1288","Serbia-Montenegro",0
+"1289","Seychelles",0.641025641
+"1290","Seychelles",0.344827586
+"1291","Seychelles",0
+"1292","Sierra Leone",0.003292723
+"1293","Sierra Leone",0.161812298
+"1294","Sierra Leone",0.056957778
+"1295","Sierra Leone",0.218021718
+"1296","Sierra Leone",1.551525791
+"1297","Sint Maarten (Dutch part)",0.975609756
+"1298","Slovakia",0.103797754
+"1299","Slovakia",0.02407819
+"1300","Slovakia",0.246071079
+"1301","Slovenia",0
+"1302","Slovenia",1.488568533
+"1303","Slovenia",0.019351717
+"1304","Solomon Islands",6.325270722
+"1305","Solomon Islands",0
+"1306","Solomon Islands",19.04761905
+"1307","Solomon Islands",1.107018831
+"1308","Solomon Islands",12.9523804
+"1309","Solomon Islands",3.65396999
+"1310","Solomon Islands",0.117647059
+"1311","Solomon Islands",1.464677559
+"1312","Solomon Islands",1.162945299
+"1313","Somalia",0.877343184
+"1314","Somalia",54.08482778
+"1315","Somalia",0.929725738
+"1316","Somalia",3.143515157
+"1317","Somalia",0.42591903
+"1318","Somalia",16.8285396
+"1319","South Africa",0.055158229
+"1320","South Africa",0.004186825
+"1321","South Africa",0.021680163
+"1322","South Africa",0.213433392
+"1323","South Africa",0.109218851
+"1324","South Africa",0.070436755
+"1325","South Africa",0.053026452
+"1326","South America",4.365212322
+"1327","South America",0.034037205
+"1328","South America",0.318138356
+"1329","South America",3.426347754
+"1330","South America",2.465601888
+"1331","South America",0.145117814
+"1332","South America",0.832215205
+"1333","South America",3.773265049
+"1334","South America",1.287532444
+"1335","South America",1.069763355
+"1336","South America",0.158416131
+"1337","South America",0.19045817
+"1338","South Korea",0.728222535
+"1339","South Korea",0
+"1340","South Korea",0.458553806
+"1341","South Korea",0.62623771
+"1342","South Korea",0.408201366
+"1343","South Korea",0.356899065
+"1344","South Korea",0.255789414
+"1345","South Korea",0.129437843
+"1346","South Korea",0.046263855
+"1347","South Sudan",0.01945748
+"1348","South Sudan",0.189987997
+"1349","Soviet Union",0
+"1350","Soviet Union",0
+"1351","Soviet Union",0
+"1352","Soviet Union",0
+"1353","Soviet Union",0
+"1354","Soviet Union",0
+"1355","Soviet Union",0
+"1356","Soviet Union",0
+"1357","Soviet Union",0
+"1358","Soviet Union",0
+"1359","Spain",0.007677357
+"1360","Spain",0.05610132
+"1361","Spain",0.143201931
+"1362","Spain",0.270613747
+"1363","Spain",0.061718369
+"1364","Spain",0.049701847
+"1365","Spain",3.592191486
+"1366","Spain",0.021578444
+"1367","Sri Lanka",0.217604178
+"1368","Sri Lanka",0.281414859
+"1369","Sri Lanka",0.554945248
+"1370","Sri Lanka",0.289490271
+"1371","Sri Lanka",0.095514779
+"1372","Sri Lanka",18.45326293
+"1373","Sri Lanka",0.591138915
+"1374","Sudan",0.025166543
+"1375","Sudan",93.17231014
+"1376","Sudan",0.150492061
+"1377","Sudan",0.081772564
+"1378","Sudan",0.144034661
+"1379","Suriname",0
+"1380","Suriname",0
+"1381","Suriname",0
+"1382","Suriname",0
+"1383","Suriname",0.09809066
+"1384","Sweden",0.015755666
+"1385","Sweden",0.013161043
+"1386","Sweden",0.003381044
+"1387","Sweden",0.00886517
+"1388","Sweden",0.00727802
+"1389","Switzerland",0.194832698
+"1390","Switzerland",0.187948942
+"1391","Switzerland",0.069286996
+"1392","Switzerland",0.001535862
+"1393","Switzerland",0.073673701
+"1394","Switzerland",1.469665842
+"1395","Switzerland",0.030290278
+"1396","Syria",0
+"1397","Syria",0
+"1398","Syria",0
+"1399","Syria",0
+"1400","Syria",0.068880456
+"1401","Syria",0.008395072
+"1402","Taiwan",4.707567868
+"1403","Taiwan",3.932255336
+"1404","Taiwan",2.57406674
+"1405","Taiwan",11.80770022
+"1406","Taiwan",0.624222755
+"1407","Taiwan",1.352260995
+"1408","Taiwan",0.771793453
+"1409","Taiwan",0.062195623
+"1410","Taiwan",0.158533594
+"1411","Taiwan",1.143192756
+"1412","Taiwan",0.498835375
+"1413","Taiwan",0.162811346
+"1414","Tajikistan",0.844655629
+"1415","Tajikistan",0
+"1416","Tajikistan",1.38131359
+"1417","Tajikistan",0
+"1418","Tajikistan",0
+"1419","Tajikistan",0
+"1420","Tajikistan",0
+"1421","Tajikistan",0
+"1422","Tajikistan",3.133141521
+"1423","Tajikistan",0.236092051
+"1424","Tajikistan",0.172019403
+"1425","Tanzania",0.034972791
+"1426","Tanzania",0.01624537
+"1427","Tanzania",0.004096346
+"1428","Tanzania",0.153235944
+"1429","Tanzania",0.049111926
+"1430","Tanzania",0.046158826
+"1431","Thailand",0.266263705
+"1432","Thailand",0.088615859
+"1433","Thailand",0.255626429
+"1434","Thailand",0.145196254
+"1435","Thailand",1.443668954
+"1436","Thailand",0.227935055
+"1437","Timor",0.052430275
+"1438","Timor",0
+"1439","Togo",0
+"1440","Togo",0
+"1441","Togo",0
+"1442","Togo",0.007098912
+"1443","Togo",0.079120311
+"1444","Togo",0.034257241
+"1445","Tonga",0
+"1446","Tonga",0
+"1447","Tonga",0.3125
+"1448","Tonga",0.455938697
+"1449","Tonga",0.744680851
+"1450","Tonga",0.105263158
+"1451","Tonga",0.865384615
+"1452","Tonga",0.099009901
+"1453","Trinidad and Tobago",0.301890999
+"1454","Trinidad and Tobago",0
+"1455","Trinidad and Tobago",0
+"1456","Trinidad and Tobago",0.269058296
+"1457","Trinidad and Tobago",0.020080321
+"1458","Trinidad and Tobago",0
+"1459","Trinidad and Tobago",0.040192926
+"1460","Trinidad and Tobago",0.023255814
+"1461","Trinidad and Tobago",0
+"1462","Tunisia",0.032234069
+"1463","Tunisia",1.293004392
+"1464","Tunisia",0.205213533
+"1465","Tunisia",0.204157996
+"1466","Tunisia",0.04488657
+"1467","Tunisia",0.043743293
+"1468","Tunisia",0.011240813
+"1469","Turkey",4.48602457
+"1470","Turkey",3.2821989
+"1471","Turkey",0.255715821
+"1472","Turkey",19.27860599
+"1473","Turkey",7.911691501
+"1474","Turkey",0.781289527
+"1475","Turkey",0.926925862
+"1476","Turkey",2.178088547
+"1477","Turkey",0.341860505
+"1478","Turkey",3.179051582
+"1479","Turkey",0.090970053
+"1480","Turkey",0.108053818
+"1481","Turkmenistan",0
+"1482","Turkmenistan",0.024357839
+"1483","Turks and Caicos Islands",0
+"1484","Turks and Caicos Islands",0
+"1485","Turks and Caicos Islands",1.290322581
+"1486","Turks and Caicos Islands",0
+"1487","Tuvalu",10
+"1488","Tuvalu",0
+"1489","Tuvalu",0
+"1490","Tuvalu",0
+"1491","Tuvalu",0
+"1492","Uganda",0.125862278
+"1493","Uganda",0
+"1494","Uganda",0
+"1495","Uganda",0.109055445
+"1496","Uganda",0.081031097
+"1497","Uganda",0.212858643
+"1498","Ukraine",0.00756395
+"1499","Ukraine",0.19034672
+"1500","Ukraine",0.061915009
+"1501","United Arab Emirates",0
+"1502","United Kingdom",0.796430475
+"1503","United Kingdom",0.029283183
+"1504","United Kingdom",0.00106754
+"1505","United Kingdom",0.012739939
+"1506","United Kingdom",0.038508176
+"1507","United Kingdom",0.064558879
+"1508","United Kingdom",0.12230045
+"1509","United States",0.978233058
+"1510","United States",0.271818283
+"1511","United States",0.283852487
+"1512","United States",0.284095427
+"1513","United States",0.101345183
+"1514","United States",0.170586028
+"1515","United States",0.180143448
+"1516","United States",0.117039267
+"1517","United States",0.161796956
+"1518","United States",0.131437599
+"1519","United States",0.138220514
+"1520","United States",0.09605974
+"1521","United States Virgin Islands",0
+"1522","United States Virgin Islands",0.929434965
+"1523","United States Virgin Islands",0
+"1524","United States Virgin Islands",0.666666667
+"1525","Upper middle income",0.602971328
+"1526","Upper middle income",2.785197056
+"1527","Upper middle income",48.32638786
+"1528","Upper middle income",53.05472474
+"1529","Upper middle income",1.470190605
+"1530","Upper middle income",17.23388287
+"1531","Upper middle income",0.390423087
+"1532","Upper middle income",2.582873148
+"1533","Upper middle income",0.391131324
+"1534","Upper middle income",0.60616263
+"1535","Upper middle income",1.265577149
+"1536","Upper middle income",0.342125372
+"1537","Uruguay",0.029090909
+"1538","Uruguay",0
+"1539","Uruguay",0
+"1540","Uruguay",0.009119669
+"1541","Uruguay",0.057156686
+"1542","Uruguay",0.041134457
+"1543","Uzbekistan",0.014509593
+"1544","Uzbekistan",0
+"1545","Uzbekistan",0.004486317
+"1546","Vanuatu",0
+"1547","Vanuatu",20.40816327
+"1548","Vanuatu",0
+"1549","Vanuatu",0.43956044
+"1550","Vanuatu",4.293661903
+"1551","Vanuatu",2.809971485
+"1552","Vanuatu",0.203859322
+"1553","Vanuatu",0.860449514
+"1554","Venezuela",0.182415177
+"1555","Venezuela",0.265973396
+"1556","Venezuela",0
+"1557","Venezuela",0.152218861
+"1558","Venezuela",12.74341831
+"1559","Venezuela",0.063164489
+"1560","Venezuela",0.025910486
+"1561","Vietnam",0.394619191
+"1562","Vietnam",2.019920311
+"1563","Vietnam",0.11547898
+"1564","Vietnam",0.674348223
+"1565","Vietnam",1.026199828
+"1566","Vietnam",0.41082961
+"1567","Vietnam",0.149575593
+"1568","Wallis and Futuna",0
+"1569","Wallis and Futuna",0
+"1570","Wallis and Futuna",0.714285714
+"1571","Wallis and Futuna",3.571428571
+"1572","Wallis and Futuna",0
+"1573","Wallis and Futuna",0
+"1574","World",8.881933981
+"1575","World",1.831393929
+"1576","World",26.7704196
+"1577","World",21.79319449
+"1578","World",16.51373935
+"1579","World",7.178859738
+"1580","World",5.227724299
+"1581","World",2.521192512
+"1582","World",1.589491257
+"1583","World",0.769747565
+"1584","World",1.192411966
+"1585","World",0.641132925
+"1586","Yemen",0.296445924
+"1587","Yemen",0.222078776
+"1588","Yemen",0.094015217
+"1589","Yugoslavia",0
+"1590","Yugoslavia",0
+"1591","Yugoslavia",0
+"1592","Yugoslavia",0
+"1593","Yugoslavia",0
+"1594","Yugoslavia",0
+"1595","Zambia",0.020117045
+"1596","Zambia",0
+"1597","Zambia",0
+"1598","Zambia",0.047729777
+"1599","Zambia",0.008854245
+"1600","Zimbabwe",0.017476962
+"1601","Zimbabwe",0
+"1602","Zimbabwe",0.030646122
+"1603","Zimbabwe",0.10019586
+"1604","Zimbabwe",0.756140926
