@@ -1,0 +1,2487 @@
+"","Entity","Disasters","Deathcounts"
+"1","Afghanistan","Drought",3.7
+"2","Afghanistan","Earthquakes",1155.3
+"3","Afghanistan","Floods",501.4
+"4","Afghanistan","Storms",49.2
+"5","Afghanistan","ExtremeTemperature",193.4
+"6","Afghanistan","Fog",0
+"7","Afghanistan","Wildfires",0
+"8","Afghanistan","GlacialLakeOutbursts",0
+"9","Afghanistan","Landslides",180
+"10","Afghanistan","VolcanicActivities",0
+"11","Afghanistan","MassMovements",0
+"12","Africa","Drought",86713.1
+"13","Africa","Earthquakes",2141.7
+"14","Africa","Floods",3006.8
+"15","Africa","Storms",777.3
+"16","Africa","ExtremeTemperature",37.2
+"17","Africa","Fog",0
+"18","Africa","Wildfires",33.7
+"19","Africa","GlacialLakeOutbursts",0
+"20","Africa","Landslides",312.4
+"21","Africa","VolcanicActivities",221.8
+"22","Africa","MassMovements",22.2
+"23","Albania","Drought",0
+"24","Albania","Earthquakes",62.6
+"25","Albania","Floods",2.3
+"26","Albania","Storms",0.8
+"27","Albania","ExtremeTemperature",8.2
+"28","Albania","Fog",0
+"29","Albania","Wildfires",0
+"30","Albania","GlacialLakeOutbursts",0
+"31","Albania","Landslides",5.7
+"32","Albania","VolcanicActivities",0
+"33","Albania","MassMovements",0
+"34","Algeria","Drought",0
+"35","Algeria","Earthquakes",677.1
+"36","Algeria","Floods",488.2
+"37","Algeria","Storms",2.7
+"38","Algeria","ExtremeTemperature",4.8
+"39","Algeria","Fog",0
+"40","Algeria","Wildfires",3
+"41","Algeria","GlacialLakeOutbursts",0
+"42","Algeria","Landslides",1.5
+"43","Algeria","VolcanicActivities",0
+"44","Algeria","MassMovements",0
+"45","American Samoa","Drought",0
+"46","American Samoa","Earthquakes",3.4
+"47","American Samoa","Floods",0.6
+"48","American Samoa","Storms",9
+"49","American Samoa","ExtremeTemperature",0
+"50","American Samoa","Fog",0
+"51","American Samoa","Wildfires",0
+"52","American Samoa","GlacialLakeOutbursts",0
+"53","American Samoa","Landslides",0
+"54","American Samoa","VolcanicActivities",0
+"55","American Samoa","MassMovements",0
+"56","Angola","Drought",5.8
+"57","Angola","Earthquakes",0
+"58","Angola","Floods",77
+"59","Angola","Storms",0
+"60","Angola","ExtremeTemperature",0
+"61","Angola","Fog",0
+"62","Angola","Wildfires",0
+"63","Angola","GlacialLakeOutbursts",0
+"64","Angola","Landslides",1.3
+"65","Angola","VolcanicActivities",0
+"66","Angola","MassMovements",0
+"67","Anguilla","Drought",0
+"68","Anguilla","Earthquakes",0
+"69","Anguilla","Floods",0
+"70","Anguilla","Storms",0.9
+"71","Anguilla","ExtremeTemperature",0
+"72","Anguilla","Fog",0
+"73","Anguilla","Wildfires",0
+"74","Anguilla","GlacialLakeOutbursts",0
+"75","Anguilla","Landslides",0
+"76","Anguilla","VolcanicActivities",0
+"77","Anguilla","MassMovements",0
+"78","Antigua and Barbuda","Drought",0
+"79","Antigua and Barbuda","Earthquakes",0
+"80","Antigua and Barbuda","Floods",0
+"81","Antigua and Barbuda","Storms",1.3
+"82","Antigua and Barbuda","ExtremeTemperature",0
+"83","Antigua and Barbuda","Fog",0
+"84","Antigua and Barbuda","Wildfires",0
+"85","Antigua and Barbuda","GlacialLakeOutbursts",0
+"86","Antigua and Barbuda","Landslides",0
+"87","Antigua and Barbuda","VolcanicActivities",0
+"88","Antigua and Barbuda","MassMovements",0
+"89","Argentina","Drought",0.8
+"90","Argentina","Earthquakes",1047.6
+"91","Argentina","Floods",85.7
+"92","Argentina","Storms",29.8
+"93","Argentina","ExtremeTemperature",18.5
+"94","Argentina","Fog",0
+"95","Argentina","Wildfires",3.2
+"96","Argentina","GlacialLakeOutbursts",0
+"97","Argentina","Landslides",10.3
+"98","Argentina","VolcanicActivities",0
+"99","Argentina","MassMovements",0
+"100","Armenia","Drought",0
+"101","Armenia","Earthquakes",289
+"102","Armenia","Floods",0.5
+"103","Armenia","Storms",0
+"104","Armenia","ExtremeTemperature",0
+"105","Armenia","Fog",0
+"106","Armenia","Wildfires",0
+"107","Armenia","GlacialLakeOutbursts",0
+"108","Armenia","Landslides",0
+"109","Armenia","VolcanicActivities",0
+"110","Armenia","MassMovements",0
+"111","Asia","Drought",966347.7
+"112","Asia","Earthquakes",160015.7
+"113","Asia","Floods",683866.2
+"114","Asia","Storms",127867.7
+"115","Asia","ExtremeTemperature",2761.8
+"116","Asia","Fog",0
+"117","Asia","Wildfires",84.1
+"118","Asia","GlacialLakeOutbursts",0
+"119","Asia","Landslides",2503.7
+"120","Asia","VolcanicActivities",1684.3
+"121","Asia","MassMovements",164.9
+"122","Australia","Drought",60
+"123","Australia","Earthquakes",1.2
+"124","Australia","Floods",32.2
+"125","Australia","Storms",24.8
+"126","Australia","ExtremeTemperature",50.9
+"127","Australia","Fog",0
+"128","Australia","Wildfires",53.3
+"129","Australia","GlacialLakeOutbursts",0
+"130","Australia","Landslides",2.8
+"131","Australia","VolcanicActivities",0
+"132","Australia","MassMovements",0
+"133","Austria","Drought",0
+"134","Austria","Earthquakes",0
+"135","Austria","Floods",4.3
+"136","Austria","Storms",3.8
+"137","Austria","ExtremeTemperature",35.8
+"138","Austria","Fog",0
+"139","Austria","Wildfires",0
+"140","Austria","GlacialLakeOutbursts",0
+"141","Austria","Landslides",35.8
+"142","Austria","VolcanicActivities",0
+"143","Austria","MassMovements",0
+"144","Azerbaijan","Drought",0
+"145","Azerbaijan","Earthquakes",11.9
+"146","Azerbaijan","Floods",1.9
+"147","Azerbaijan","Storms",0
+"148","Azerbaijan","ExtremeTemperature",0.5
+"149","Azerbaijan","Fog",0
+"150","Azerbaijan","Wildfires",0
+"151","Azerbaijan","GlacialLakeOutbursts",0
+"152","Azerbaijan","Landslides",1.1
+"153","Azerbaijan","VolcanicActivities",0
+"154","Azerbaijan","MassMovements",0
+"155","Bahamas","Drought",0
+"156","Bahamas","Earthquakes",0
+"157","Bahamas","Floods",0
+"158","Bahamas","Storms",45
+"159","Bahamas","ExtremeTemperature",0
+"160","Bahamas","Fog",0
+"161","Bahamas","Wildfires",0
+"162","Bahamas","GlacialLakeOutbursts",0
+"163","Bahamas","Landslides",0
+"164","Bahamas","VolcanicActivities",0
+"165","Bahamas","MassMovements",0
+"166","Bangladesh","Drought",190001.8
+"167","Bangladesh","Earthquakes",4.5
+"168","Bangladesh","Floods",5273
+"169","Bangladesh","Storms",63489.6
+"170","Bangladesh","ExtremeTemperature",252.4
+"171","Bangladesh","Fog",0
+"172","Bangladesh","Wildfires",0
+"173","Bangladesh","GlacialLakeOutbursts",0
+"174","Bangladesh","Landslides",26.5
+"175","Bangladesh","VolcanicActivities",0
+"176","Bangladesh","MassMovements",0
+"177","Barbados","Drought",0
+"178","Barbados","Earthquakes",0
+"179","Barbados","Floods",0.3
+"180","Barbados","Storms",5.9
+"181","Barbados","ExtremeTemperature",0
+"182","Barbados","Fog",0
+"183","Barbados","Wildfires",0
+"184","Barbados","GlacialLakeOutbursts",0
+"185","Barbados","Landslides",0
+"186","Barbados","VolcanicActivities",0
+"187","Barbados","MassMovements",0
+"188","Belarus","Drought",0
+"189","Belarus","Earthquakes",0
+"190","Belarus","Floods",0.2
+"191","Belarus","Storms",0.5
+"192","Belarus","ExtremeTemperature",5.4
+"193","Belarus","Fog",0
+"194","Belarus","Wildfires",0
+"195","Belarus","GlacialLakeOutbursts",0
+"196","Belarus","Landslides",0
+"197","Belarus","VolcanicActivities",0
+"198","Belarus","MassMovements",0
+"199","Belgium","Drought",0
+"200","Belgium","Earthquakes",0.2
+"201","Belgium","Floods",2.8
+"202","Belgium","Storms",9.9
+"203","Belgium","ExtremeTemperature",325.9
+"204","Belgium","Fog",0
+"205","Belgium","Wildfires",0
+"206","Belgium","GlacialLakeOutbursts",0
+"207","Belgium","Landslides",0
+"208","Belgium","VolcanicActivities",0
+"209","Belgium","MassMovements",0
+"210","Belize","Drought",0
+"211","Belize","Earthquakes",0
+"212","Belize","Floods",0.1
+"213","Belize","Storms",185.9
+"214","Belize","ExtremeTemperature",0
+"215","Belize","Fog",0
+"216","Belize","Wildfires",0
+"217","Belize","GlacialLakeOutbursts",0
+"218","Belize","Landslides",0
+"219","Belize","VolcanicActivities",0
+"220","Belize","MassMovements",0
+"221","Benin","Drought",0
+"222","Benin","Earthquakes",0
+"223","Benin","Floods",18.3
+"224","Benin","Storms",0
+"225","Benin","ExtremeTemperature",0
+"226","Benin","Fog",0
+"227","Benin","Wildfires",0.3
+"228","Benin","GlacialLakeOutbursts",0
+"229","Benin","Landslides",0
+"230","Benin","VolcanicActivities",0
+"231","Benin","MassMovements",0
+"232","Bermuda","Drought",0
+"233","Bermuda","Earthquakes",0
+"234","Bermuda","Floods",0
+"235","Bermuda","Storms",0.4
+"236","Bermuda","ExtremeTemperature",0
+"237","Bermuda","Fog",0
+"238","Bermuda","Wildfires",0
+"239","Bermuda","GlacialLakeOutbursts",0
+"240","Bermuda","Landslides",0
+"241","Bermuda","VolcanicActivities",0
+"242","Bermuda","MassMovements",0
+"243","Bhutan","Drought",0
+"244","Bhutan","Earthquakes",1.2
+"245","Bhutan","Floods",22.2
+"246","Bhutan","Storms",2.9
+"247","Bhutan","ExtremeTemperature",0
+"248","Bhutan","Fog",0
+"249","Bhutan","Wildfires",0
+"250","Bhutan","GlacialLakeOutbursts",0
+"251","Bhutan","Landslides",0
+"252","Bhutan","VolcanicActivities",0
+"253","Bhutan","MassMovements",0
+"254","Bolivia","Drought",0
+"255","Bolivia","Earthquakes",10
+"256","Bolivia","Floods",120.7
+"257","Bolivia","Storms",2
+"258","Bolivia","ExtremeTemperature",3.7
+"259","Bolivia","Fog",0
+"260","Bolivia","Wildfires",0.3
+"261","Bolivia","GlacialLakeOutbursts",0
+"262","Bolivia","Landslides",33.4
+"263","Bolivia","VolcanicActivities",0
+"264","Bolivia","MassMovements",0
+"265","Bosnia and Herzegovina","Drought",0
+"266","Bosnia and Herzegovina","Earthquakes",0
+"267","Bosnia and Herzegovina","Floods",3
+"268","Bosnia and Herzegovina","Storms",0.4
+"269","Bosnia and Herzegovina","ExtremeTemperature",0.7
+"270","Bosnia and Herzegovina","Fog",0
+"271","Bosnia and Herzegovina","Wildfires",0
+"272","Bosnia and Herzegovina","GlacialLakeOutbursts",0
+"273","Bosnia and Herzegovina","Landslides",0.6
+"274","Bosnia and Herzegovina","VolcanicActivities",0
+"275","Bosnia and Herzegovina","MassMovements",0
+"276","Botswana","Drought",0
+"277","Botswana","Earthquakes",0
+"278","Botswana","Floods",4.3
+"279","Botswana","Storms",0
+"280","Botswana","ExtremeTemperature",0
+"281","Botswana","Fog",0
+"282","Botswana","Wildfires",0
+"283","Botswana","GlacialLakeOutbursts",0
+"284","Botswana","Landslides",0
+"285","Botswana","VolcanicActivities",0
+"286","Botswana","MassMovements",0
+"287","Brazil","Drought",2
+"288","Brazil","Earthquakes",0.2
+"289","Brazil","Floods",783.8
+"290","Brazil","Storms",35.4
+"291","Brazil","ExtremeTemperature",35.5
+"292","Brazil","Fog",0
+"293","Brazil","Wildfires",0.1
+"294","Brazil","GlacialLakeOutbursts",0
+"295","Brazil","Landslides",174.5
+"296","Brazil","VolcanicActivities",0
+"297","Brazil","MassMovements",0
+"298","British Virgin Islands","Drought",0
+"299","British Virgin Islands","Earthquakes",0
+"300","British Virgin Islands","Floods",0
+"301","British Virgin Islands","Storms",0.9
+"302","British Virgin Islands","ExtremeTemperature",0
+"303","British Virgin Islands","Fog",0
+"304","British Virgin Islands","Wildfires",0
+"305","British Virgin Islands","GlacialLakeOutbursts",0
+"306","British Virgin Islands","Landslides",0
+"307","British Virgin Islands","VolcanicActivities",0
+"308","British Virgin Islands","MassMovements",0
+"309","Brunei","Drought",0
+"310","Brunei","Earthquakes",0
+"311","Brunei","Floods",0
+"312","Brunei","Storms",0
+"313","Brunei","ExtremeTemperature",0
+"314","Brunei","Fog",0
+"315","Brunei","Wildfires",0
+"316","Brunei","GlacialLakeOutbursts",0
+"317","Brunei","Landslides",0
+"318","Brunei","VolcanicActivities",0
+"319","Brunei","MassMovements",0
+"320","Bulgaria","Drought",0
+"321","Bulgaria","Earthquakes",13.1
+"322","Bulgaria","Floods",8.2
+"323","Bulgaria","Storms",0.3
+"324","Bulgaria","ExtremeTemperature",7.6
+"325","Bulgaria","Fog",0
+"326","Bulgaria","Wildfires",1
+"327","Bulgaria","GlacialLakeOutbursts",0
+"328","Bulgaria","Landslides",1.1
+"329","Bulgaria","VolcanicActivities",0
+"330","Bulgaria","MassMovements",0
+"331","Burkina Faso","Drought",0
+"332","Burkina Faso","Earthquakes",0
+"333","Burkina Faso","Floods",17.2
+"334","Burkina Faso","Storms",0
+"335","Burkina Faso","ExtremeTemperature",0
+"336","Burkina Faso","Fog",0
+"337","Burkina Faso","Wildfires",0
+"338","Burkina Faso","GlacialLakeOutbursts",0
+"339","Burkina Faso","Landslides",0
+"340","Burkina Faso","VolcanicActivities",0
+"341","Burkina Faso","MassMovements",0
+"342","Burundi","Drought",12.6
+"343","Burundi","Earthquakes",0.3
+"344","Burundi","Floods",22
+"345","Burundi","Storms",2.1
+"346","Burundi","ExtremeTemperature",0
+"347","Burundi","Fog",0
+"348","Burundi","Wildfires",0
+"349","Burundi","GlacialLakeOutbursts",0
+"350","Burundi","Landslides",5.4
+"351","Burundi","VolcanicActivities",0
+"352","Burundi","MassMovements",0
+"353","Cambodia","Drought",0
+"354","Cambodia","Earthquakes",0
+"355","Cambodia","Floods",165.3
+"356","Cambodia","Storms",4.4
+"357","Cambodia","ExtremeTemperature",0
+"358","Cambodia","Fog",0
+"359","Cambodia","Wildfires",0
+"360","Cambodia","GlacialLakeOutbursts",0
+"361","Cambodia","Landslides",0
+"362","Cambodia","VolcanicActivities",0
+"363","Cambodia","MassMovements",0
+"364","Cameroon","Drought",0
+"365","Cameroon","Earthquakes",0
+"366","Cameroon","Floods",13.1
+"367","Cameroon","Storms",0
+"368","Cameroon","ExtremeTemperature",0
+"369","Cameroon","Fog",0
+"370","Cameroon","Wildfires",0
+"371","Cameroon","GlacialLakeOutbursts",0
+"372","Cameroon","Landslides",7.4
+"373","Cameroon","VolcanicActivities",178.3
+"374","Cameroon","MassMovements",0
+"375","Canada","Drought",0
+"376","Canada","Earthquakes",2.7
+"377","Canada","Floods",5
+"378","Canada","Storms",30.2
+"379","Canada","ExtremeTemperature",58
+"380","Canada","Fog",0
+"381","Canada","Wildfires",11.9
+"382","Canada","GlacialLakeOutbursts",0
+"383","Canada","Landslides",14.4
+"384","Canada","VolcanicActivities",0
+"385","Canada","MassMovements",16.1
+"386","Cape Verde","Drought",8500
+"387","Cape Verde","Earthquakes",0
+"388","Cape Verde","Floods",0.3
+"389","Cape Verde","Storms",4.1
+"390","Cape Verde","ExtremeTemperature",0
+"391","Cape Verde","Fog",0
+"392","Cape Verde","Wildfires",0
+"393","Cape Verde","GlacialLakeOutbursts",0
+"394","Cape Verde","Landslides",0
+"395","Cape Verde","VolcanicActivities",0
+"396","Cape Verde","MassMovements",0
+"397","Cayman Islands","Drought",0
+"398","Cayman Islands","Earthquakes",0
+"399","Cayman Islands","Floods",0
+"400","Cayman Islands","Storms",0.2
+"401","Cayman Islands","ExtremeTemperature",0
+"402","Cayman Islands","Fog",0
+"403","Cayman Islands","Wildfires",0
+"404","Cayman Islands","GlacialLakeOutbursts",0
+"405","Cayman Islands","Landslides",0
+"406","Cayman Islands","VolcanicActivities",0
+"407","Cayman Islands","MassMovements",0
+"408","Central African Republic","Drought",0
+"409","Central African Republic","Earthquakes",0
+"410","Central African Republic","Floods",1.6
+"411","Central African Republic","Storms",0.8
+"412","Central African Republic","ExtremeTemperature",0
+"413","Central African Republic","Fog",0
+"414","Central African Republic","Wildfires",0.1
+"415","Central African Republic","GlacialLakeOutbursts",0
+"416","Central African Republic","Landslides",0
+"417","Central African Republic","VolcanicActivities",0
+"418","Central African Republic","MassMovements",0
+"419","Chad","Drought",300
+"420","Chad","Earthquakes",0
+"421","Chad","Floods",30.1
+"422","Chad","Storms",3.8
+"423","Chad","ExtremeTemperature",0
+"424","Chad","Fog",0
+"425","Chad","Wildfires",0
+"426","Chad","GlacialLakeOutbursts",0
+"427","Chad","Landslides",5.2
+"428","Chad","VolcanicActivities",0
+"429","Chad","MassMovements",0
+"430","Chile","Drought",0
+"431","Chile","Earthquakes",5859.2
+"432","Chile","Floods",124.5
+"433","Chile","Storms",27.3
+"434","Chile","ExtremeTemperature",0.8
+"435","Chile","Fog",0
+"436","Chile","Wildfires",4.2
+"437","Chile","GlacialLakeOutbursts",0
+"438","Chile","Landslides",25.1
+"439","Chile","VolcanicActivities",11
+"440","Chile","MassMovements",0
+"441","China","Drought",350353.4
+"442","China","Earthquakes",65241.5
+"443","China","Floods",662149.7
+"444","China","Storms",17501.7
+"445","China","ExtremeTemperature",38.4
+"446","China","Fog",0
+"447","China","Wildfires",29.5
+"448","China","GlacialLakeOutbursts",0
+"449","China","Landslides",582.9
+"450","China","VolcanicActivities",0
+"451","China","MassMovements",50
+"452","Colombia","Drought",0
+"453","Colombia","Earthquakes",361.9
+"454","Colombia","Floods",358.5
+"455","Colombia","Storms",4.9
+"456","Colombia","ExtremeTemperature",0
+"457","Colombia","Fog",0
+"458","Colombia","Wildfires",4.2
+"459","Colombia","GlacialLakeOutbursts",0
+"460","Colombia","Landslides",346
+"461","Colombia","VolcanicActivities",2282.6
+"462","Colombia","MassMovements",24.7
+"463","Comoros","Drought",0
+"464","Comoros","Earthquakes",0
+"465","Comoros","Floods",0.6
+"466","Comoros","Storms",56.7
+"467","Comoros","ExtremeTemperature",0
+"468","Comoros","Fog",0
+"469","Comoros","Wildfires",0
+"470","Comoros","GlacialLakeOutbursts",0
+"471","Comoros","Landslides",0
+"472","Comoros","VolcanicActivities",1.9
+"473","Comoros","MassMovements",0
+"474","Congo","Drought",0
+"475","Congo","Earthquakes",0
+"476","Congo","Floods",2.8
+"477","Congo","Storms",0
+"478","Congo","ExtremeTemperature",0
+"479","Congo","Fog",0
+"480","Congo","Wildfires",0
+"481","Congo","GlacialLakeOutbursts",0
+"482","Congo","Landslides",15.4
+"483","Congo","VolcanicActivities",0
+"484","Congo","MassMovements",0
+"485","Costa Rica","Drought",0
+"486","Costa Rica","Earthquakes",261.6
+"487","Costa Rica","Floods",14.8
+"488","Costa Rica","Storms",11.7
+"489","Costa Rica","ExtremeTemperature",0
+"490","Costa Rica","Fog",0
+"491","Costa Rica","Wildfires",0
+"492","Costa Rica","GlacialLakeOutbursts",0
+"493","Costa Rica","Landslides",0.7
+"494","Costa Rica","VolcanicActivities",10.4
+"495","Costa Rica","MassMovements",0
+"496","Cote d'Ivoire","Drought",0
+"497","Cote d'Ivoire","Earthquakes",0
+"498","Cote d'Ivoire","Floods",18.1
+"499","Cote d'Ivoire","Storms",0
+"500","Cote d'Ivoire","ExtremeTemperature",0
+"501","Cote d'Ivoire","Fog",0
+"502","Cote d'Ivoire","Wildfires",0
+"503","Cote d'Ivoire","GlacialLakeOutbursts",0
+"504","Cote d'Ivoire","Landslides",2.7
+"505","Cote d'Ivoire","VolcanicActivities",0
+"506","Cote d'Ivoire","MassMovements",0
+"507","Croatia","Drought",0
+"508","Croatia","Earthquakes",0
+"509","Croatia","Floods",0.4
+"510","Croatia","Storms",0.2
+"511","Croatia","ExtremeTemperature",84
+"512","Croatia","Fog",0
+"513","Croatia","Wildfires",1.3
+"514","Croatia","GlacialLakeOutbursts",0
+"515","Croatia","Landslides",0
+"516","Croatia","VolcanicActivities",0
+"517","Croatia","MassMovements",0
+"518","Cuba","Drought",0
+"519","Cuba","Earthquakes",0.1
+"520","Cuba","Floods",12.1
+"521","Cuba","Storms",505.7
+"522","Cuba","ExtremeTemperature",0
+"523","Cuba","Fog",0
+"524","Cuba","Wildfires",0
+"525","Cuba","GlacialLakeOutbursts",0
+"526","Cuba","Landslides",0
+"527","Cuba","VolcanicActivities",0
+"528","Cuba","MassMovements",0
+"529","Cyprus","Drought",0
+"530","Cyprus","Earthquakes",4.2
+"531","Cyprus","Floods",0
+"532","Cyprus","Storms",0.3
+"533","Cyprus","ExtremeTemperature",6.1
+"534","Cyprus","Fog",0
+"535","Cyprus","Wildfires",0
+"536","Cyprus","GlacialLakeOutbursts",0
+"537","Cyprus","Landslides",0
+"538","Cyprus","VolcanicActivities",0
+"539","Cyprus","MassMovements",0
+"540","Czechia","Drought",0
+"541","Czechia","Earthquakes",0
+"542","Czechia","Floods",10
+"543","Czechia","Storms",1
+"544","Czechia","ExtremeTemperature",48
+"545","Czechia","Fog",0
+"546","Czechia","Wildfires",0
+"547","Czechia","GlacialLakeOutbursts",0
+"548","Czechia","Landslides",0
+"549","Czechia","VolcanicActivities",0
+"550","Czechia","MassMovements",0
+"551","Czechoslovakia","Drought",0
+"552","Czechoslovakia","Earthquakes",0
+"553","Czechoslovakia","Floods",0
+"554","Czechoslovakia","Storms",0
+"555","Czechoslovakia","ExtremeTemperature",0
+"556","Czechoslovakia","Fog",0
+"557","Czechoslovakia","Wildfires",0
+"558","Czechoslovakia","GlacialLakeOutbursts",0
+"559","Czechoslovakia","Landslides",2.4
+"560","Czechoslovakia","VolcanicActivities",0
+"561","Czechoslovakia","MassMovements",0
+"562","Democratic Republic of Congo","Drought",0
+"563","Democratic Republic of Congo","Earthquakes",5.3
+"564","Democratic Republic of Congo","Floods",65.6
+"565","Democratic Republic of Congo","Storms",4.9
+"566","Democratic Republic of Congo","ExtremeTemperature",0
+"567","Democratic Republic of Congo","Fog",0
+"568","Democratic Republic of Congo","Wildfires",1.1
+"569","Democratic Republic of Congo","GlacialLakeOutbursts",0
+"570","Democratic Republic of Congo","Landslides",43.4
+"571","Democratic Republic of Congo","VolcanicActivities",34.7
+"572","Democratic Republic of Congo","MassMovements",0
+"573","Denmark","Drought",0
+"574","Denmark","Earthquakes",0
+"575","Denmark","Floods",0
+"576","Denmark","Storms",2.6
+"577","Denmark","ExtremeTemperature",0
+"578","Denmark","Fog",0
+"579","Denmark","Wildfires",0
+"580","Denmark","GlacialLakeOutbursts",0
+"581","Denmark","Landslides",0
+"582","Denmark","VolcanicActivities",0
+"583","Denmark","MassMovements",0
+"584","Djibouti","Drought",0
+"585","Djibouti","Earthquakes",0
+"586","Djibouti","Floods",24.2
+"587","Djibouti","Storms",0.2
+"588","Djibouti","ExtremeTemperature",0
+"589","Djibouti","Fog",0
+"590","Djibouti","Wildfires",0
+"591","Djibouti","GlacialLakeOutbursts",0
+"592","Djibouti","Landslides",0
+"593","Djibouti","VolcanicActivities",0
+"594","Djibouti","MassMovements",0
+"595","Dominica","Drought",0
+"596","Dominica","Earthquakes",0
+"597","Dominica","Floods",0
+"598","Dominica","Storms",214
+"599","Dominica","ExtremeTemperature",0
+"600","Dominica","Fog",0
+"601","Dominica","Wildfires",0
+"602","Dominica","GlacialLakeOutbursts",0
+"603","Dominica","Landslides",0
+"604","Dominica","VolcanicActivities",0
+"605","Dominica","MassMovements",0
+"606","Dominican Republic","Drought",0
+"607","Dominican Republic","Earthquakes",7.6
+"608","Dominican Republic","Floods",85.9
+"609","Dominican Republic","Storms",452.2
+"610","Dominican Republic","ExtremeTemperature",0
+"611","Dominican Republic","Fog",0
+"612","Dominican Republic","Wildfires",0
+"613","Dominican Republic","GlacialLakeOutbursts",0
+"614","Dominican Republic","Landslides",0
+"615","Dominican Republic","VolcanicActivities",0
+"616","Dominican Republic","MassMovements",0
+"617","Ecuador","Drought",0
+"618","Ecuador","Earthquakes",1201.2
+"619","Ecuador","Floods",101.1
+"620","Ecuador","Storms",0
+"621","Ecuador","ExtremeTemperature",0
+"622","Ecuador","Fog",0
+"623","Ecuador","Wildfires",0.5
+"624","Ecuador","GlacialLakeOutbursts",0
+"625","Ecuador","Landslides",108.2
+"626","Ecuador","VolcanicActivities",0.6
+"627","Ecuador","MassMovements",6
+"628","Egypt","Drought",0
+"629","Egypt","Earthquakes",59.6
+"630","Egypt","Floods",73.4
+"631","Egypt","Storms",15.2
+"632","Egypt","ExtremeTemperature",16.7
+"633","Egypt","Fog",0
+"634","Egypt","Wildfires",0
+"635","Egypt","GlacialLakeOutbursts",0
+"636","Egypt","Landslides",0
+"637","Egypt","VolcanicActivities",0
+"638","Egypt","MassMovements",13.2
+"639","El Salvador","Drought",0
+"640","El Salvador","Earthquakes",390.6
+"641","El Salvador","Floods",68.3
+"642","El Salvador","Storms",287.7
+"643","El Salvador","ExtremeTemperature",0.1
+"644","El Salvador","Fog",0
+"645","El Salvador","Wildfires",0
+"646","El Salvador","GlacialLakeOutbursts",0
+"647","El Salvador","Landslides",4.4
+"648","El Salvador","VolcanicActivities",0.2
+"649","El Salvador","MassMovements",0
+"650","Eritrea","Drought",0
+"651","Eritrea","Earthquakes",0
+"652","Eritrea","Floods",0
+"653","Eritrea","Storms",0.3
+"654","Eritrea","ExtremeTemperature",0
+"655","Eritrea","Fog",0
+"656","Eritrea","Wildfires",0
+"657","Eritrea","GlacialLakeOutbursts",0
+"658","Eritrea","Landslides",0
+"659","Eritrea","VolcanicActivities",0
+"660","Eritrea","MassMovements",0
+"661","Estonia","Drought",0
+"662","Estonia","Earthquakes",0
+"663","Estonia","Floods",0
+"664","Estonia","Storms",0
+"665","Estonia","ExtremeTemperature",1.1
+"666","Estonia","Fog",0
+"667","Estonia","Wildfires",0
+"668","Estonia","GlacialLakeOutbursts",0
+"669","Estonia","Landslides",0
+"670","Estonia","VolcanicActivities",0
+"671","Estonia","MassMovements",0
+"672","Eswatini","Drought",50
+"673","Eswatini","Earthquakes",0
+"674","Eswatini","Floods",1.1
+"675","Eswatini","Storms",5.4
+"676","Eswatini","ExtremeTemperature",0
+"677","Eswatini","Fog",0
+"678","Eswatini","Wildfires",0.2
+"679","Eswatini","GlacialLakeOutbursts",0
+"680","Eswatini","Landslides",0
+"681","Eswatini","VolcanicActivities",0
+"682","Eswatini","MassMovements",0
+"683","Ethiopia","Drought",40236.7
+"684","Ethiopia","Earthquakes",5.4
+"685","Ethiopia","Floods",210.4
+"686","Ethiopia","Storms",0
+"687","Ethiopia","ExtremeTemperature",0
+"688","Ethiopia","Fog",0
+"689","Ethiopia","Wildfires",0
+"690","Ethiopia","GlacialLakeOutbursts",0
+"691","Ethiopia","Landslides",9.3
+"692","Ethiopia","VolcanicActivities",6.9
+"693","Ethiopia","MassMovements",1.3
+"694","Europe","Drought",0.2
+"695","Europe","Earthquakes",12376.7
+"696","Europe","Floods",931.2
+"697","Europe","Storms",274.8
+"698","Europe","ExtremeTemperature",14833.3
+"699","Europe","Fog",400
+"700","Europe","Wildfires",85.4
+"701","Europe","GlacialLakeOutbursts",0
+"702","Europe","Landslides",450.5
+"703","Europe","VolcanicActivities",73.5
+"704","Europe","MassMovements",0.8
+"705","Fiji","Drought",0
+"706","Fiji","Earthquakes",0
+"707","Fiji","Floods",7.1
+"708","Fiji","Storms",56.9
+"709","Fiji","ExtremeTemperature",0
+"710","Fiji","Fog",0
+"711","Fiji","Wildfires",0
+"712","Fiji","GlacialLakeOutbursts",0
+"713","Fiji","Landslides",0
+"714","Fiji","VolcanicActivities",0
+"715","Fiji","MassMovements",0
+"716","Finland","Drought",0
+"717","Finland","Earthquakes",0
+"718","Finland","Floods",0
+"719","Finland","Storms",0
+"720","Finland","ExtremeTemperature",0
+"721","Finland","Fog",0
+"722","Finland","Wildfires",0
+"723","Finland","GlacialLakeOutbursts",0
+"724","Finland","Landslides",0
+"725","Finland","VolcanicActivities",0
+"726","Finland","MassMovements",0
+"727","France","Drought",0
+"728","France","Earthquakes",5.8
+"729","France","Floods",32
+"730","France","Storms",44.3
+"731","France","ExtremeTemperature",2566.9
+"732","France","Fog",0
+"733","France","Wildfires",11.2
+"734","France","GlacialLakeOutbursts",0
+"735","France","Landslides",29.7
+"736","France","VolcanicActivities",0
+"737","France","MassMovements",0
+"738","French Guiana","Drought",0
+"739","French Guiana","Earthquakes",0
+"740","French Guiana","Floods",0
+"741","French Guiana","Storms",0
+"742","French Guiana","ExtremeTemperature",0
+"743","French Guiana","Fog",0
+"744","French Guiana","Wildfires",0
+"745","French Guiana","GlacialLakeOutbursts",0
+"746","French Guiana","Landslides",1
+"747","French Guiana","VolcanicActivities",0
+"748","French Guiana","MassMovements",0
+"749","French Polynesia","Drought",0
+"750","French Polynesia","Earthquakes",0
+"751","French Polynesia","Floods",0
+"752","French Polynesia","Storms",0.8
+"753","French Polynesia","ExtremeTemperature",0
+"754","French Polynesia","Fog",0
+"755","French Polynesia","Wildfires",0
+"756","French Polynesia","GlacialLakeOutbursts",0
+"757","French Polynesia","Landslides",2.3
+"758","French Polynesia","VolcanicActivities",0
+"759","French Polynesia","MassMovements",0
+"760","Gabon","Drought",0
+"761","Gabon","Earthquakes",0
+"762","Gabon","Floods",0.1
+"763","Gabon","Storms",0
+"764","Gabon","ExtremeTemperature",0
+"765","Gabon","Fog",0
+"766","Gabon","Wildfires",0
+"767","Gabon","GlacialLakeOutbursts",0
+"768","Gabon","Landslides",0
+"769","Gabon","VolcanicActivities",0
+"770","Gabon","MassMovements",0
+"771","Gambia","Drought",0
+"772","Gambia","Earthquakes",0
+"773","Gambia","Floods",7.6
+"774","Gambia","Storms",0.9
+"775","Gambia","ExtremeTemperature",0
+"776","Gambia","Fog",0
+"777","Gambia","Wildfires",0
+"778","Gambia","GlacialLakeOutbursts",0
+"779","Gambia","Landslides",0
+"780","Gambia","VolcanicActivities",0
+"781","Gambia","MassMovements",0
+"782","Georgia","Drought",0
+"783","Georgia","Earthquakes",1.5
+"784","Georgia","Floods",6.1
+"785","Georgia","Storms",0
+"786","Georgia","ExtremeTemperature",0
+"787","Georgia","Fog",0
+"788","Georgia","Wildfires",0
+"789","Georgia","GlacialLakeOutbursts",0
+"790","Georgia","Landslides",0
+"791","Georgia","VolcanicActivities",0
+"792","Georgia","MassMovements",0
+"793","Germany","Drought",0
+"794","Germany","Earthquakes",0.1
+"795","Germany","Floods",6.1
+"796","Germany","Storms",22.2
+"797","Germany","ExtremeTemperature",942.4
+"798","Germany","Fog",0
+"799","Germany","Wildfires",0
+"800","Germany","GlacialLakeOutbursts",0
+"801","Germany","Landslides",0.5
+"802","Germany","VolcanicActivities",0
+"803","Germany","MassMovements",0
+"804","Ghana","Drought",0
+"805","Ghana","Earthquakes",2.2
+"806","Ghana","Floods",51
+"807","Ghana","Storms",2
+"808","Ghana","ExtremeTemperature",0
+"809","Ghana","Fog",0
+"810","Ghana","Wildfires",0.4
+"811","Ghana","GlacialLakeOutbursts",0
+"812","Ghana","Landslides",0
+"813","Ghana","VolcanicActivities",0
+"814","Ghana","MassMovements",0
+"815","Greece","Drought",0
+"816","Greece","Earthquakes",127
+"817","Greece","Floods",11.5
+"818","Greece","Storms",12.8
+"819","Greece","ExtremeTemperature",112.9
+"820","Greece","Fog",0
+"821","Greece","Wildfires",20.6
+"822","Greece","GlacialLakeOutbursts",0
+"823","Greece","Landslides",0
+"824","Greece","VolcanicActivities",0
+"825","Greece","MassMovements",0
+"826","Grenada","Drought",0
+"827","Grenada","Earthquakes",0
+"828","Grenada","Floods",0
+"829","Grenada","Storms",4.5
+"830","Grenada","ExtremeTemperature",0
+"831","Grenada","Fog",0
+"832","Grenada","Wildfires",0
+"833","Grenada","GlacialLakeOutbursts",0
+"834","Grenada","Landslides",0
+"835","Grenada","VolcanicActivities",0
+"836","Grenada","MassMovements",0
+"837","Guadeloupe","Drought",0
+"838","Guadeloupe","Earthquakes",0.1
+"839","Guadeloupe","Floods",0
+"840","Guadeloupe","Storms",205.2
+"841","Guadeloupe","ExtremeTemperature",0
+"842","Guadeloupe","Fog",0
+"843","Guadeloupe","Wildfires",0
+"844","Guadeloupe","GlacialLakeOutbursts",0
+"845","Guadeloupe","Landslides",0
+"846","Guadeloupe","VolcanicActivities",0
+"847","Guadeloupe","MassMovements",0
+"848","Guam","Drought",0
+"849","Guam","Earthquakes",0
+"850","Guam","Floods",0
+"851","Guam","Storms",1.8
+"852","Guam","ExtremeTemperature",0
+"853","Guam","Fog",0
+"854","Guam","Wildfires",0
+"855","Guam","GlacialLakeOutbursts",0
+"856","Guam","Landslides",0
+"857","Guam","VolcanicActivities",0
+"858","Guam","MassMovements",0
+"859","Guatemala","Drought",4.1
+"860","Guatemala","Earthquakes",2772.6
+"861","Guatemala","Floods",4091.9
+"862","Guatemala","Storms",238.9
+"863","Guatemala","ExtremeTemperature",0.6
+"864","Guatemala","Fog",0
+"865","Guatemala","Wildfires",0
+"866","Guatemala","GlacialLakeOutbursts",0
+"867","Guatemala","Landslides",67.8
+"868","Guatemala","VolcanicActivities",746.1
+"869","Guatemala","MassMovements",5.9
+"870","Guinea","Drought",1.2
+"871","Guinea","Earthquakes",27.5
+"872","Guinea","Floods",2.8
+"873","Guinea","Storms",0.4
+"874","Guinea","ExtremeTemperature",0
+"875","Guinea","Fog",0
+"876","Guinea","Wildfires",0
+"877","Guinea","GlacialLakeOutbursts",0
+"878","Guinea","Landslides",0.7
+"879","Guinea","VolcanicActivities",0
+"880","Guinea","MassMovements",0
+"881","Guinea-Bissau","Drought",0
+"882","Guinea-Bissau","Earthquakes",0
+"883","Guinea-Bissau","Floods",0.5
+"884","Guinea-Bissau","Storms",0.4
+"885","Guinea-Bissau","ExtremeTemperature",0
+"886","Guinea-Bissau","Fog",0
+"887","Guinea-Bissau","Wildfires",0.3
+"888","Guinea-Bissau","GlacialLakeOutbursts",0
+"889","Guinea-Bissau","Landslides",0
+"890","Guinea-Bissau","VolcanicActivities",0
+"891","Guinea-Bissau","MassMovements",0
+"892","Guyana","Drought",0
+"893","Guyana","Earthquakes",0
+"894","Guyana","Floods",3.4
+"895","Guyana","Storms",0
+"896","Guyana","ExtremeTemperature",0
+"897","Guyana","Fog",0
+"898","Guyana","Wildfires",0
+"899","Guyana","GlacialLakeOutbursts",0
+"900","Guyana","Landslides",0
+"901","Guyana","VolcanicActivities",0
+"902","Guyana","MassMovements",0
+"903","Haiti","Drought",0
+"904","Haiti","Earthquakes",22259.3
+"905","Haiti","Floods",406
+"906","Haiti","Storms",1588.6
+"907","Haiti","ExtremeTemperature",0
+"908","Haiti","Fog",0
+"909","Haiti","Wildfires",0
+"910","Haiti","GlacialLakeOutbursts",0
+"911","Haiti","Landslides",26.2
+"912","Haiti","VolcanicActivities",0
+"913","Haiti","MassMovements",0
+"914","High income","Drought",60
+"915","High income","Earthquakes",37951
+"916","High income","Floods",3199.9
+"917","High income","Storms",10718.4
+"918","High income","ExtremeTemperature",9646.4
+"919","High income","Fog",400
+"920","High income","Wildfires",286.5
+"921","High income","GlacialLakeOutbursts",0
+"922","High income","Landslides",694.1
+"923","High income","VolcanicActivities",3171.6
+"924","High income","MassMovements",16.9
+"925","Honduras","Drought",0
+"926","Honduras","Earthquakes",0.7
+"927","Honduras","Floods",95.9
+"928","Honduras","Storms",2462.5
+"929","Honduras","ExtremeTemperature",0
+"930","Honduras","Fog",0
+"931","Honduras","Wildfires",0
+"932","Honduras","GlacialLakeOutbursts",0
+"933","Honduras","Landslides",280
+"934","Honduras","VolcanicActivities",0
+"935","Honduras","MassMovements",1
+"936","Hong Kong","Drought",0
+"937","Hong Kong","Earthquakes",0
+"938","Hong Kong","Floods",31.2
+"939","Hong Kong","Storms",2374.2
+"940","Hong Kong","ExtremeTemperature",1
+"941","Hong Kong","Fog",0
+"942","Hong Kong","Wildfires",0
+"943","Hong Kong","GlacialLakeOutbursts",0
+"944","Hong Kong","Landslides",21.2
+"945","Hong Kong","VolcanicActivities",0
+"946","Hong Kong","MassMovements",0
+"947","Hungary","Drought",0
+"948","Hungary","Earthquakes",0
+"949","Hungary","Floods",31
+"950","Hungary","Storms",6
+"951","Hungary","ExtremeTemperature",84.1
+"952","Hungary","Fog",0
+"953","Hungary","Wildfires",0
+"954","Hungary","GlacialLakeOutbursts",0
+"955","Hungary","Landslides",0
+"956","Hungary","VolcanicActivities",0
+"957","Hungary","MassMovements",0
+"958","Iceland","Drought",0
+"959","Iceland","Earthquakes",0.1
+"960","Iceland","Floods",0
+"961","Iceland","Storms",0
+"962","Iceland","ExtremeTemperature",0
+"963","Iceland","Fog",0
+"964","Iceland","Wildfires",0
+"965","Iceland","GlacialLakeOutbursts",0
+"966","Iceland","Landslides",5
+"967","Iceland","VolcanicActivities",0
+"968","Iceland","MassMovements",0
+"969","India","Drought",425032
+"970","India","Earthquakes",7161.6
+"971","India","Floods",7348.9
+"972","India","Storms",16664.9
+"973","India","ExtremeTemperature",1797.5
+"974","India","Fog",0
+"975","India","Wildfires",3
+"976","India","GlacialLakeOutbursts",0
+"977","India","Landslides",503.5
+"978","India","VolcanicActivities",0
+"979","India","MassMovements",6.1
+"980","Indonesia","Drought",934
+"981","Indonesia","Earthquakes",20315
+"982","Indonesia","Floods",710
+"983","Indonesia","Storms",202.4
+"984","Indonesia","ExtremeTemperature",0
+"985","Indonesia","Fog",0
+"986","Indonesia","Wildfires",31.9
+"987","Indonesia","GlacialLakeOutbursts",0
+"988","Indonesia","Landslides",267.7
+"989","Indonesia","VolcanicActivities",1326.3
+"990","Indonesia","MassMovements",13.1
+"991","Iran","Drought",0
+"992","Iran","Earthquakes",15426.6
+"993","Iran","Floods",800.8
+"994","Iran","Storms",35.2
+"995","Iran","ExtremeTemperature",15.8
+"996","Iran","Fog",0
+"997","Iran","Wildfires",0
+"998","Iran","GlacialLakeOutbursts",0
+"999","Iran","Landslides",11.6
+"1000","Iran","VolcanicActivities",0
+"1001","Iran","MassMovements",0
+"1002","Iraq","Drought",0
+"1003","Iraq","Earthquakes",3
+"1004","Iraq","Floods",13.6
+"1005","Iraq","Storms",0
+"1006","Iraq","ExtremeTemperature",0
+"1007","Iraq","Fog",0
+"1008","Iraq","Wildfires",0
+"1009","Iraq","GlacialLakeOutbursts",0
+"1010","Iraq","Landslides",0
+"1011","Iraq","VolcanicActivities",0
+"1012","Iraq","MassMovements",0
+"1013","Ireland","Drought",0
+"1014","Ireland","Earthquakes",0
+"1015","Ireland","Floods",0.5
+"1016","Ireland","Storms",4
+"1017","Ireland","ExtremeTemperature",0
+"1018","Ireland","Fog",0
+"1019","Ireland","Wildfires",0
+"1020","Ireland","GlacialLakeOutbursts",0
+"1021","Ireland","Landslides",0
+"1022","Ireland","VolcanicActivities",0
+"1023","Ireland","MassMovements",0
+"1024","Israel","Drought",0
+"1025","Israel","Earthquakes",2
+"1026","Israel","Floods",2.9
+"1027","Israel","Storms",1.2
+"1028","Israel","ExtremeTemperature",0
+"1029","Israel","Fog",0
+"1030","Israel","Wildfires",4.4
+"1031","Israel","GlacialLakeOutbursts",0
+"1032","Israel","Landslides",2
+"1033","Israel","VolcanicActivities",0
+"1034","Israel","MassMovements",0
+"1035","Italy","Drought",0
+"1036","Italy","Earthquakes",11560.7
+"1037","Italy","Floods",111.1
+"1038","Italy","Storms",30.7
+"1039","Italy","ExtremeTemperature",2017.3
+"1040","Italy","Fog",0
+"1041","Italy","Wildfires",2.1
+"1042","Italy","GlacialLakeOutbursts",0
+"1043","Italy","Landslides",258.8
+"1044","Italy","VolcanicActivities",73.5
+"1045","Italy","MassMovements",0
+"1046","Jamaica","Drought",0
+"1047","Jamaica","Earthquakes",120
+"1048","Jamaica","Floods",73
+"1049","Jamaica","Storms",60.8
+"1050","Jamaica","ExtremeTemperature",0
+"1051","Jamaica","Fog",0
+"1052","Jamaica","Wildfires",0
+"1053","Jamaica","GlacialLakeOutbursts",0
+"1054","Jamaica","Landslides",5.3
+"1055","Jamaica","VolcanicActivities",0
+"1056","Jamaica","MassMovements",4
+"1057","Japan","Drought",0
+"1058","Japan","Earthquakes",18815.8
+"1059","Japan","Floods",1343.1
+"1060","Japan","Storms",3491.8
+"1061","Japan","ExtremeTemperature",104.8
+"1062","Japan","Fog",0
+"1063","Japan","Wildfires",0
+"1064","Japan","GlacialLakeOutbursts",0
+"1065","Japan","Landslides",108.4
+"1066","Japan","VolcanicActivities",57.8
+"1067","Japan","MassMovements",0
+"1068","Jordan","Drought",0
+"1069","Jordan","Earthquakes",26.8
+"1070","Jordan","Floods",34.5
+"1071","Jordan","Storms",1.6
+"1072","Jordan","ExtremeTemperature",1.5
+"1073","Jordan","Fog",0
+"1074","Jordan","Wildfires",0
+"1075","Jordan","GlacialLakeOutbursts",0
+"1076","Jordan","Landslides",0
+"1077","Jordan","VolcanicActivities",0
+"1078","Jordan","MassMovements",0
+"1079","Kazakhstan","Drought",0
+"1080","Kazakhstan","Earthquakes",45.3
+"1081","Kazakhstan","Floods",6.4
+"1082","Kazakhstan","Storms",11.2
+"1083","Kazakhstan","ExtremeTemperature",0.3
+"1084","Kazakhstan","Fog",0
+"1085","Kazakhstan","Wildfires",0
+"1086","Kazakhstan","GlacialLakeOutbursts",0
+"1087","Kazakhstan","Landslides",4.8
+"1088","Kazakhstan","VolcanicActivities",0
+"1089","Kazakhstan","MassMovements",0
+"1090","Kenya","Drought",19.6
+"1091","Kenya","Earthquakes",0.1
+"1092","Kenya","Floods",175.4
+"1093","Kenya","Storms",5
+"1094","Kenya","ExtremeTemperature",0
+"1095","Kenya","Fog",0
+"1096","Kenya","Wildfires",0
+"1097","Kenya","GlacialLakeOutbursts",0
+"1098","Kenya","Landslides",15.3
+"1099","Kenya","VolcanicActivities",0
+"1100","Kenya","MassMovements",0
+"1101","Kiribati","Drought",0
+"1102","Kiribati","Earthquakes",0
+"1103","Kiribati","Floods",0
+"1104","Kiribati","Storms",0.3
+"1105","Kiribati","ExtremeTemperature",0
+"1106","Kiribati","Fog",0
+"1107","Kiribati","Wildfires",0
+"1108","Kiribati","GlacialLakeOutbursts",0
+"1109","Kiribati","Landslides",0
+"1110","Kiribati","VolcanicActivities",0
+"1111","Kiribati","MassMovements",0
+"1112","Kuwait","Drought",0
+"1113","Kuwait","Earthquakes",0
+"1114","Kuwait","Floods",0.3
+"1115","Kuwait","Storms",0
+"1116","Kuwait","ExtremeTemperature",0
+"1117","Kuwait","Fog",0
+"1118","Kuwait","Wildfires",0
+"1119","Kuwait","GlacialLakeOutbursts",0
+"1120","Kuwait","Landslides",0
+"1121","Kuwait","VolcanicActivities",0
+"1122","Kuwait","MassMovements",0
+"1123","Kyrgyzstan","Drought",0
+"1124","Kyrgyzstan","Earthquakes",13.2
+"1125","Kyrgyzstan","Floods",0.4
+"1126","Kyrgyzstan","Storms",0.4
+"1127","Kyrgyzstan","ExtremeTemperature",2.7
+"1128","Kyrgyzstan","Fog",0
+"1129","Kyrgyzstan","Wildfires",0
+"1130","Kyrgyzstan","GlacialLakeOutbursts",0
+"1131","Kyrgyzstan","Landslides",27.3
+"1132","Kyrgyzstan","VolcanicActivities",0
+"1133","Kyrgyzstan","MassMovements",0
+"1134","Laos","Drought",0
+"1135","Laos","Earthquakes",0
+"1136","Laos","Floods",66.9
+"1137","Laos","Storms",7.2
+"1138","Laos","ExtremeTemperature",0
+"1139","Laos","Fog",0
+"1140","Laos","Wildfires",0
+"1141","Laos","GlacialLakeOutbursts",0
+"1142","Laos","Landslides",0
+"1143","Laos","VolcanicActivities",0
+"1144","Laos","MassMovements",0
+"1145","Latvia","Drought",0
+"1146","Latvia","Earthquakes",0
+"1147","Latvia","Floods",0
+"1148","Latvia","Storms",0.6
+"1149","Latvia","ExtremeTemperature",8.6
+"1150","Latvia","Fog",0
+"1151","Latvia","Wildfires",0
+"1152","Latvia","GlacialLakeOutbursts",0
+"1153","Latvia","Landslides",0
+"1154","Latvia","VolcanicActivities",0
+"1155","Latvia","MassMovements",0
+"1156","Lebanon","Drought",0
+"1157","Lebanon","Earthquakes",13.6
+"1158","Lebanon","Floods",44
+"1159","Lebanon","Storms",4.8
+"1160","Lebanon","ExtremeTemperature",0
+"1161","Lebanon","Fog",0
+"1162","Lebanon","Wildfires",0.1
+"1163","Lebanon","GlacialLakeOutbursts",0
+"1164","Lebanon","Landslides",0
+"1165","Lebanon","VolcanicActivities",0
+"1166","Lebanon","MassMovements",2
+"1167","Lesotho","Drought",0
+"1168","Lesotho","Earthquakes",0
+"1169","Lesotho","Floods",6.6
+"1170","Lesotho","Storms",0.1
+"1171","Lesotho","ExtremeTemperature",0
+"1172","Lesotho","Fog",0
+"1173","Lesotho","Wildfires",0
+"1174","Lesotho","GlacialLakeOutbursts",0
+"1175","Lesotho","Landslides",0
+"1176","Lesotho","VolcanicActivities",0
+"1177","Lesotho","MassMovements",0
+"1178","Liberia","Drought",0
+"1179","Liberia","Earthquakes",0
+"1180","Liberia","Floods",1.4
+"1181","Liberia","Storms",0
+"1182","Liberia","ExtremeTemperature",0
+"1183","Liberia","Fog",0
+"1184","Liberia","Wildfires",0
+"1185","Liberia","GlacialLakeOutbursts",0
+"1186","Liberia","Landslides",0
+"1187","Liberia","VolcanicActivities",0
+"1188","Liberia","MassMovements",4.6
+"1189","Libya","Drought",0
+"1190","Libya","Earthquakes",30
+"1191","Libya","Floods",2
+"1192","Libya","Storms",0
+"1193","Libya","ExtremeTemperature",0
+"1194","Libya","Fog",0
+"1195","Libya","Wildfires",0
+"1196","Libya","GlacialLakeOutbursts",0
+"1197","Libya","Landslides",0
+"1198","Libya","VolcanicActivities",0
+"1199","Libya","MassMovements",0
+"1200","Lithuania","Drought",0
+"1201","Lithuania","Earthquakes",0
+"1202","Lithuania","Floods",0.4
+"1203","Lithuania","Storms",0.8
+"1204","Lithuania","ExtremeTemperature",9.2
+"1205","Lithuania","Fog",0
+"1206","Lithuania","Wildfires",0
+"1207","Lithuania","GlacialLakeOutbursts",0
+"1208","Lithuania","Landslides",0
+"1209","Lithuania","VolcanicActivities",0
+"1210","Lithuania","MassMovements",0
+"1211","Low income","Drought",78141.4
+"1212","Low income","Earthquakes",23534.1
+"1213","Low income","Floods",2737.7
+"1214","Low income","Storms",2150.4
+"1215","Low income","ExtremeTemperature",195.1
+"1216","Low income","Fog",0
+"1217","Low income","Wildfires",16.1
+"1218","Low income","GlacialLakeOutbursts",0
+"1219","Low income","Landslides",519
+"1220","Low income","VolcanicActivities",42.2
+"1221","Low income","MassMovements",7.1
+"1222","Lower middle income","Drought",623640.6
+"1223","Lower middle income","Earthquakes",31582.7
+"1224","Lower middle income","Floods",18539.3
+"1225","Lower middle income","Storms",106374.1
+"1226","Lower middle income","ExtremeTemperature",2520.8
+"1227","Lower middle income","Fog",0
+"1228","Lower middle income","Wildfires",20.6
+"1229","Lower middle income","GlacialLakeOutbursts",0
+"1230","Lower middle income","Landslides",1587.9
+"1231","Lower middle income","VolcanicActivities",831.6
+"1232","Lower middle income","MassMovements",91.2
+"1233","Luxembourg","Drought",0
+"1234","Luxembourg","Earthquakes",0
+"1235","Luxembourg","Floods",0
+"1236","Luxembourg","Storms",0
+"1237","Luxembourg","ExtremeTemperature",17
+"1238","Luxembourg","Fog",0
+"1239","Luxembourg","Wildfires",0
+"1240","Luxembourg","GlacialLakeOutbursts",0
+"1241","Luxembourg","Landslides",0
+"1242","Luxembourg","VolcanicActivities",0
+"1243","Luxembourg","MassMovements",0
+"1244","Macao","Drought",0
+"1245","Macao","Earthquakes",0
+"1246","Macao","Floods",0
+"1247","Macao","Storms",1
+"1248","Macao","ExtremeTemperature",0
+"1249","Macao","Fog",0
+"1250","Macao","Wildfires",0
+"1251","Macao","GlacialLakeOutbursts",0
+"1252","Macao","Landslides",0
+"1253","Macao","VolcanicActivities",0
+"1254","Macao","MassMovements",0
+"1255","Madagascar","Drought",20
+"1256","Madagascar","Earthquakes",0
+"1257","Madagascar","Floods",8.7
+"1258","Madagascar","Storms",283
+"1259","Madagascar","ExtremeTemperature",0
+"1260","Madagascar","Fog",0
+"1261","Madagascar","Wildfires",0
+"1262","Madagascar","GlacialLakeOutbursts",0
+"1263","Madagascar","Landslides",0
+"1264","Madagascar","VolcanicActivities",0
+"1265","Madagascar","MassMovements",0
+"1266","Malawi","Drought",50
+"1267","Malawi","Earthquakes",1.3
+"1268","Malawi","Floods",94.7
+"1269","Malawi","Storms",1.6
+"1270","Malawi","ExtremeTemperature",0
+"1271","Malawi","Fog",0
+"1272","Malawi","Wildfires",0
+"1273","Malawi","GlacialLakeOutbursts",0
+"1274","Malawi","Landslides",0.8
+"1275","Malawi","VolcanicActivities",0
+"1276","Malawi","MassMovements",0
+"1277","Malaysia","Drought",0
+"1278","Malaysia","Earthquakes",10.4
+"1279","Malaysia","Floods",34.8
+"1280","Malaysia","Storms",29.6
+"1281","Malaysia","ExtremeTemperature",0
+"1282","Malaysia","Fog",0
+"1283","Malaysia","Wildfires",0
+"1284","Malaysia","GlacialLakeOutbursts",0
+"1285","Malaysia","Landslides",9.6
+"1286","Malaysia","VolcanicActivities",0
+"1287","Malaysia","MassMovements",7.2
+"1288","Maldives","Drought",0
+"1289","Maldives","Earthquakes",10.2
+"1290","Maldives","Floods",0
+"1291","Maldives","Storms",0
+"1292","Maldives","ExtremeTemperature",0
+"1293","Maldives","Fog",0
+"1294","Maldives","Wildfires",0
+"1295","Maldives","GlacialLakeOutbursts",0
+"1296","Maldives","Landslides",0
+"1297","Maldives","VolcanicActivities",0
+"1298","Maldives","MassMovements",0
+"1299","Mali","Drought",0
+"1300","Mali","Earthquakes",0
+"1301","Mali","Floods",15.7
+"1302","Mali","Storms",0
+"1303","Mali","ExtremeTemperature",0
+"1304","Mali","Fog",0
+"1305","Mali","Wildfires",0
+"1306","Mali","GlacialLakeOutbursts",0
+"1307","Mali","Landslides",0
+"1308","Mali","VolcanicActivities",0
+"1309","Mali","MassMovements",0
+"1310","Marshall Islands","Drought",0
+"1311","Marshall Islands","Earthquakes",0
+"1312","Marshall Islands","Floods",0
+"1313","Marshall Islands","Storms",0
+"1314","Marshall Islands","ExtremeTemperature",0
+"1315","Marshall Islands","Fog",0
+"1316","Marshall Islands","Wildfires",0
+"1317","Marshall Islands","GlacialLakeOutbursts",0
+"1318","Marshall Islands","Landslides",0
+"1319","Marshall Islands","VolcanicActivities",0
+"1320","Marshall Islands","MassMovements",0
+"1321","Martinique","Drought",0
+"1322","Martinique","Earthquakes",0.1
+"1323","Martinique","Floods",0
+"1324","Martinique","Storms",8.2
+"1325","Martinique","ExtremeTemperature",0
+"1326","Martinique","Fog",0
+"1327","Martinique","Wildfires",0
+"1328","Martinique","GlacialLakeOutbursts",0
+"1329","Martinique","Landslides",0
+"1330","Martinique","VolcanicActivities",3000
+"1331","Martinique","MassMovements",0
+"1332","Mauritania","Drought",0
+"1333","Mauritania","Earthquakes",0
+"1334","Mauritania","Floods",5.6
+"1335","Mauritania","Storms",2.3
+"1336","Mauritania","ExtremeTemperature",0
+"1337","Mauritania","Fog",0
+"1338","Mauritania","Wildfires",0
+"1339","Mauritania","GlacialLakeOutbursts",0
+"1340","Mauritania","Landslides",0
+"1341","Mauritania","VolcanicActivities",0
+"1342","Mauritania","MassMovements",0
+"1343","Mauritius","Drought",0
+"1344","Mauritius","Earthquakes",0
+"1345","Mauritius","Floods",1.1
+"1346","Mauritius","Storms",7
+"1347","Mauritius","ExtremeTemperature",0
+"1348","Mauritius","Fog",0
+"1349","Mauritius","Wildfires",0
+"1350","Mauritius","GlacialLakeOutbursts",0
+"1351","Mauritius","Landslides",0
+"1352","Mauritius","VolcanicActivities",0
+"1353","Mauritius","MassMovements",0
+"1354","Mexico","Drought",0
+"1355","Mexico","Earthquakes",1217
+"1356","Mexico","Floods",435.8
+"1357","Mexico","Storms",553.2
+"1358","Mexico","ExtremeTemperature",118.8
+"1359","Mexico","Fog",0
+"1360","Mexico","Wildfires",11
+"1361","Mexico","GlacialLakeOutbursts",0
+"1362","Mexico","Landslides",33.2
+"1363","Mexico","VolcanicActivities",112
+"1364","Mexico","MassMovements",0
+"1365","Micronesia","Drought",0
+"1366","Micronesia","Earthquakes",0
+"1367","Micronesia","Floods",0
+"1368","Micronesia","Storms",5.8
+"1369","Micronesia","ExtremeTemperature",0
+"1370","Micronesia","Fog",0
+"1371","Micronesia","Wildfires",0
+"1372","Micronesia","GlacialLakeOutbursts",0
+"1373","Micronesia","Landslides",0
+"1374","Micronesia","VolcanicActivities",0
+"1375","Micronesia","MassMovements",0
+"1376","Moldova","Drought",0.2
+"1377","Moldova","Earthquakes",0
+"1378","Moldova","Floods",6.1
+"1379","Moldova","Storms",0.3
+"1380","Moldova","ExtremeTemperature",2.3
+"1381","Moldova","Fog",0
+"1382","Moldova","Wildfires",0
+"1383","Moldova","GlacialLakeOutbursts",0
+"1384","Moldova","Landslides",0
+"1385","Moldova","VolcanicActivities",0
+"1386","Moldova","MassMovements",0
+"1387","Mongolia","Drought",0
+"1388","Mongolia","Earthquakes",120
+"1389","Mongolia","Floods",15.6
+"1390","Mongolia","Storms",14.3
+"1391","Mongolia","ExtremeTemperature",0.5
+"1392","Mongolia","Fog",0
+"1393","Mongolia","Wildfires",2.5
+"1394","Mongolia","GlacialLakeOutbursts",0
+"1395","Mongolia","Landslides",1.7
+"1396","Mongolia","VolcanicActivities",0
+"1397","Mongolia","MassMovements",0
+"1398","Montenegro","Drought",0
+"1399","Montenegro","Earthquakes",0
+"1400","Montenegro","Floods",0
+"1401","Montenegro","Storms",0
+"1402","Montenegro","ExtremeTemperature",0.1
+"1403","Montenegro","Fog",0
+"1404","Montenegro","Wildfires",0
+"1405","Montenegro","GlacialLakeOutbursts",0
+"1406","Montenegro","Landslides",0
+"1407","Montenegro","VolcanicActivities",0
+"1408","Montenegro","MassMovements",0
+"1409","Montserrat","Drought",0
+"1410","Montserrat","Earthquakes",0
+"1411","Montserrat","Floods",0
+"1412","Montserrat","Storms",1.1
+"1413","Montserrat","ExtremeTemperature",0
+"1414","Montserrat","Fog",0
+"1415","Montserrat","Wildfires",0
+"1416","Montserrat","GlacialLakeOutbursts",0
+"1417","Montserrat","Landslides",0
+"1418","Montserrat","VolcanicActivities",3.2
+"1419","Montserrat","MassMovements",0
+"1420","Morocco","Drought",0
+"1421","Morocco","Earthquakes",1273.9
+"1422","Morocco","Floods",169.2
+"1423","Morocco","Storms",6.4
+"1424","Morocco","ExtremeTemperature",0
+"1425","Morocco","Fog",0
+"1426","Morocco","Wildfires",0
+"1427","Morocco","GlacialLakeOutbursts",0
+"1428","Morocco","Landslides",1.6
+"1429","Morocco","VolcanicActivities",0
+"1430","Morocco","MassMovements",3.1
+"1431","Mozambique","Drought",10006.8
+"1432","Mozambique","Earthquakes",0.4
+"1433","Mozambique","Floods",236.8
+"1434","Mozambique","Storms",135.1
+"1435","Mozambique","ExtremeTemperature",0
+"1436","Mozambique","Fog",0
+"1437","Mozambique","Wildfires",4.9
+"1438","Mozambique","GlacialLakeOutbursts",0
+"1439","Mozambique","Landslides",10.4
+"1440","Mozambique","VolcanicActivities",0
+"1441","Mozambique","MassMovements",0
+"1442","Myanmar","Drought",0
+"1443","Myanmar","Earthquakes",78.8
+"1444","Myanmar","Floods",90.2
+"1445","Myanmar","Storms",14469.8
+"1446","Myanmar","ExtremeTemperature",0
+"1447","Myanmar","Fog",0
+"1448","Myanmar","Wildfires",0.8
+"1449","Myanmar","GlacialLakeOutbursts",0
+"1450","Myanmar","Landslides",23.3
+"1451","Myanmar","VolcanicActivities",0
+"1452","Myanmar","MassMovements",1.7
+"1453","Namibia","Drought",0
+"1454","Namibia","Earthquakes",0
+"1455","Namibia","Floods",26.4
+"1456","Namibia","Storms",0
+"1457","Namibia","ExtremeTemperature",0
+"1458","Namibia","Fog",0
+"1459","Namibia","Wildfires",0
+"1460","Namibia","GlacialLakeOutbursts",0
+"1461","Namibia","Landslides",0
+"1462","Namibia","VolcanicActivities",0
+"1463","Namibia","MassMovements",0
+"1464","Nepal","Drought",0
+"1465","Nepal","Earthquakes",986.5
+"1466","Nepal","Floods",725.2
+"1467","Nepal","Storms",20.8
+"1468","Nepal","ExtremeTemperature",26.7
+"1469","Nepal","Fog",0
+"1470","Nepal","Wildfires",9.9
+"1471","Nepal","GlacialLakeOutbursts",0
+"1472","Nepal","Landslides",189.4
+"1473","Nepal","VolcanicActivities",0
+"1474","Nepal","MassMovements",15
+"1475","Netherlands","Drought",0
+"1476","Netherlands","Earthquakes",0
+"1477","Netherlands","Floods",200.1
+"1478","Netherlands","Storms",3.9
+"1479","Netherlands","ExtremeTemperature",236.6
+"1480","Netherlands","Fog",0
+"1481","Netherlands","Wildfires",0
+"1482","Netherlands","GlacialLakeOutbursts",0
+"1483","Netherlands","Landslides",0
+"1484","Netherlands","VolcanicActivities",0
+"1485","Netherlands","MassMovements",0
+"1486","Netherlands Antilles","Drought",0
+"1487","Netherlands Antilles","Earthquakes",0
+"1488","Netherlands Antilles","Floods",0
+"1489","Netherlands Antilles","Storms",1.3
+"1490","Netherlands Antilles","ExtremeTemperature",0
+"1491","Netherlands Antilles","Fog",0
+"1492","Netherlands Antilles","Wildfires",0
+"1493","Netherlands Antilles","GlacialLakeOutbursts",0
+"1494","Netherlands Antilles","Landslides",0
+"1495","Netherlands Antilles","VolcanicActivities",0
+"1496","Netherlands Antilles","MassMovements",0
+"1497","New Caledonia","Drought",0
+"1498","New Caledonia","Earthquakes",0
+"1499","New Caledonia","Floods",0
+"1500","New Caledonia","Storms",2
+"1501","New Caledonia","ExtremeTemperature",0
+"1502","New Caledonia","Fog",0
+"1503","New Caledonia","Wildfires",0
+"1504","New Caledonia","GlacialLakeOutbursts",0
+"1505","New Caledonia","Landslides",0
+"1506","New Caledonia","VolcanicActivities",0
+"1507","New Caledonia","MassMovements",0
+"1508","New Zealand","Drought",0
+"1509","New Zealand","Earthquakes",46.1
+"1510","New Zealand","Floods",3.2
+"1511","New Zealand","Storms",9.1
+"1512","New Zealand","ExtremeTemperature",0
+"1513","New Zealand","Fog",0
+"1514","New Zealand","Wildfires",0
+"1515","New Zealand","GlacialLakeOutbursts",0
+"1516","New Zealand","Landslides",0
+"1517","New Zealand","VolcanicActivities",17.1
+"1518","New Zealand","MassMovements",0
+"1519","Nicaragua","Drought",0
+"1520","Nicaragua","Earthquakes",1268.8
+"1521","Nicaragua","Floods",51.5
+"1522","Nicaragua","Storms",393.5
+"1523","Nicaragua","ExtremeTemperature",0
+"1524","Nicaragua","Fog",0
+"1525","Nicaragua","Wildfires",0
+"1526","Nicaragua","GlacialLakeOutbursts",0
+"1527","Nicaragua","Landslides",2.9
+"1528","Nicaragua","VolcanicActivities",0.1
+"1529","Nicaragua","MassMovements",0
+"1530","Niger","Drought",8500
+"1531","Niger","Earthquakes",0
+"1532","Niger","Floods",55.6
+"1533","Niger","Storms",0.4
+"1534","Niger","ExtremeTemperature",0
+"1535","Niger","Fog",0
+"1536","Niger","Wildfires",0
+"1537","Niger","GlacialLakeOutbursts",0
+"1538","Niger","Landslides",0
+"1539","Niger","VolcanicActivities",0
+"1540","Niger","MassMovements",0
+"1541","Nigeria","Drought",0
+"1542","Nigeria","Earthquakes",0
+"1543","Nigeria","Floods",183.8
+"1544","Nigeria","Storms",25.4
+"1545","Nigeria","ExtremeTemperature",7.8
+"1546","Nigeria","Fog",0
+"1547","Nigeria","Wildfires",0
+"1548","Nigeria","GlacialLakeOutbursts",0
+"1549","Nigeria","Landslides",3.2
+"1550","Nigeria","VolcanicActivities",0
+"1551","Nigeria","MassMovements",0
+"1552","North America","Drought",4.1
+"1553","North America","Earthquakes",28464.2
+"1554","North America","Floods",5724.5
+"1555","North America","Storms",10436.9
+"1556","North America","ExtremeTemperature",697.6
+"1557","North America","Fog",0
+"1558","North America","Wildfires",167.9
+"1559","North America","GlacialLakeOutbursts",0
+"1560","North America","Landslides",515.6
+"1561","North America","VolcanicActivities",4037.7
+"1562","North America","MassMovements",27
+"1563","North Korea","Drought",0
+"1564","North Korea","Earthquakes",0
+"1565","North Korea","Floods",275.6
+"1566","North Korea","Storms",23.5
+"1567","North Korea","ExtremeTemperature",0
+"1568","North Korea","Fog",0
+"1569","North Korea","Wildfires",0
+"1570","North Korea","GlacialLakeOutbursts",0
+"1571","North Korea","Landslides",0
+"1572","North Korea","VolcanicActivities",0
+"1573","North Korea","MassMovements",0
+"1574","North Macedonia","Drought",0
+"1575","North Macedonia","Earthquakes",0
+"1576","North Macedonia","Floods",3.2
+"1577","North Macedonia","Storms",0.1
+"1578","North Macedonia","ExtremeTemperature",3.4
+"1579","North Macedonia","Fog",0
+"1580","North Macedonia","Wildfires",0.1
+"1581","North Macedonia","GlacialLakeOutbursts",0
+"1582","North Macedonia","Landslides",0
+"1583","North Macedonia","VolcanicActivities",0
+"1584","North Macedonia","MassMovements",0
+"1585","Northern Mariana Islands","Drought",0
+"1586","Northern Mariana Islands","Earthquakes",0
+"1587","Northern Mariana Islands","Floods",0
+"1588","Northern Mariana Islands","Storms",0.5
+"1589","Northern Mariana Islands","ExtremeTemperature",0
+"1590","Northern Mariana Islands","Fog",0
+"1591","Northern Mariana Islands","Wildfires",0
+"1592","Northern Mariana Islands","GlacialLakeOutbursts",0
+"1593","Northern Mariana Islands","Landslides",0
+"1594","Northern Mariana Islands","VolcanicActivities",0
+"1595","Northern Mariana Islands","MassMovements",0
+"1596","Norway","Drought",0
+"1597","Norway","Earthquakes",0
+"1598","Norway","Floods",0.1
+"1599","Norway","Storms",0.4
+"1600","Norway","ExtremeTemperature",0
+"1601","Norway","Fog",0
+"1602","Norway","Wildfires",0
+"1603","Norway","GlacialLakeOutbursts",0
+"1604","Norway","Landslides",7.4
+"1605","Norway","VolcanicActivities",0
+"1606","Norway","MassMovements",0
+"1607","Oceania","Drought",68.4
+"1608","Oceania","Earthquakes",649.7
+"1609","Oceania","Floods",56.8
+"1610","Oceania","Storms",221.1
+"1611","Oceania","ExtremeTemperature",50.9
+"1612","Oceania","Fog",0
+"1613","Oceania","Wildfires",53.3
+"1614","Oceania","GlacialLakeOutbursts",0
+"1615","Oceania","Landslides",55.6
+"1616","Oceania","VolcanicActivities",368.6
+"1617","Oceania","MassMovements",8.6
+"1618","Oman","Drought",0
+"1619","Oman","Earthquakes",0
+"1620","Oman","Floods",1.1
+"1621","Oman","Storms",28.2
+"1622","Oman","ExtremeTemperature",0
+"1623","Oman","Fog",0
+"1624","Oman","Wildfires",0
+"1625","Oman","GlacialLakeOutbursts",0
+"1626","Oman","Landslides",0
+"1627","Oman","VolcanicActivities",0
+"1628","Oman","MassMovements",0
+"1629","Pakistan","Drought",22
+"1630","Pakistan","Earthquakes",14411.6
+"1631","Pakistan","Floods",1759.8
+"1632","Pakistan","Storms",1203.4
+"1633","Pakistan","ExtremeTemperature",295.4
+"1634","Pakistan","Fog",0
+"1635","Pakistan","Wildfires",0
+"1636","Pakistan","GlacialLakeOutbursts",0
+"1637","Pakistan","Landslides",78.9
+"1638","Pakistan","VolcanicActivities",0
+"1639","Pakistan","MassMovements",6.3
+"1640","Palau","Drought",0
+"1641","Palau","Earthquakes",0
+"1642","Palau","Floods",0
+"1643","Palau","Storms",0
+"1644","Palau","ExtremeTemperature",0
+"1645","Palau","Fog",0
+"1646","Palau","Wildfires",0
+"1647","Palau","GlacialLakeOutbursts",0
+"1648","Palau","Landslides",0
+"1649","Palau","VolcanicActivities",0
+"1650","Palau","MassMovements",0
+"1651","Palestine","Drought",0
+"1652","Palestine","Earthquakes",0
+"1653","Palestine","Floods",0.5
+"1654","Palestine","Storms",0.5
+"1655","Palestine","ExtremeTemperature",0
+"1656","Palestine","Fog",0
+"1657","Palestine","Wildfires",0
+"1658","Palestine","GlacialLakeOutbursts",0
+"1659","Palestine","Landslides",0
+"1660","Palestine","VolcanicActivities",0
+"1661","Palestine","MassMovements",0
+"1662","Panama","Drought",0
+"1663","Panama","Earthquakes",3.2
+"1664","Panama","Floods",20.7
+"1665","Panama","Storms",6
+"1666","Panama","ExtremeTemperature",0
+"1667","Panama","Fog",0
+"1668","Panama","Wildfires",0
+"1669","Panama","GlacialLakeOutbursts",0
+"1670","Panama","Landslides",0
+"1671","Panama","VolcanicActivities",0
+"1672","Panama","MassMovements",0
+"1673","Papua New Guinea","Drought",8.4
+"1674","Papua New Guinea","Earthquakes",545
+"1675","Papua New Guinea","Floods",6.7
+"1676","Papua New Guinea","Storms",21.9
+"1677","Papua New Guinea","ExtremeTemperature",0
+"1678","Papua New Guinea","Fog",0
+"1679","Papua New Guinea","Wildfires",0
+"1680","Papua New Guinea","GlacialLakeOutbursts",0
+"1681","Papua New Guinea","Landslides",50.4
+"1682","Papua New Guinea","VolcanicActivities",351.5
+"1683","Papua New Guinea","MassMovements",8.6
+"1684","Paraguay","Drought",1.6
+"1685","Paraguay","Earthquakes",0
+"1686","Paraguay","Floods",18.9
+"1687","Paraguay","Storms",4
+"1688","Paraguay","ExtremeTemperature",2
+"1689","Paraguay","Fog",0
+"1690","Paraguay","Wildfires",0.8
+"1691","Paraguay","GlacialLakeOutbursts",0
+"1692","Paraguay","Landslides",0
+"1693","Paraguay","VolcanicActivities",0
+"1694","Paraguay","MassMovements",0
+"1695","Peru","Drought",0
+"1696","Peru","Earthquakes",7078.8
+"1697","Peru","Floods",222.8
+"1698","Peru","Storms",65.3
+"1699","Peru","ExtremeTemperature",202
+"1700","Peru","Fog",0
+"1701","Peru","Wildfires",0
+"1702","Peru","GlacialLakeOutbursts",0
+"1703","Peru","Landslides",854.9
+"1704","Peru","VolcanicActivities",0
+"1705","Peru","MassMovements",200
+"1706","Philippines","Drought",0.8
+"1707","Philippines","Earthquakes",992.6
+"1708","Philippines","Floods",366.8
+"1709","Philippines","Storms",4961.5
+"1710","Philippines","ExtremeTemperature",0
+"1711","Philippines","Fog",0
+"1712","Philippines","Wildfires",0.2
+"1713","Philippines","GlacialLakeOutbursts",0
+"1714","Philippines","Landslides",244.1
+"1715","Philippines","VolcanicActivities",299.6
+"1716","Philippines","MassMovements",36.1
+"1717","Poland","Drought",0
+"1718","Poland","Earthquakes",0
+"1719","Poland","Floods",11.5
+"1720","Poland","Storms",14
+"1721","Poland","ExtremeTemperature",208.5
+"1722","Poland","Fog",0
+"1723","Poland","Wildfires",3.5
+"1724","Poland","GlacialLakeOutbursts",0
+"1725","Poland","Landslides",0
+"1726","Poland","VolcanicActivities",0
+"1727","Poland","MassMovements",0
+"1728","Portugal","Drought",0
+"1729","Portugal","Earthquakes",11.1
+"1730","Portugal","Floods",59.7
+"1731","Portugal","Storms",20
+"1732","Portugal","ExtremeTemperature",319.9
+"1733","Portugal","Fog",0
+"1734","Portugal","Wildfires",20.7
+"1735","Portugal","GlacialLakeOutbursts",0
+"1736","Portugal","Landslides",2.9
+"1737","Portugal","VolcanicActivities",0
+"1738","Portugal","MassMovements",0
+"1739","Puerto Rico","Drought",0
+"1740","Puerto Rico","Earthquakes",11.6
+"1741","Puerto Rico","Floods",58.3
+"1742","Puerto Rico","Storms",64.4
+"1743","Puerto Rico","ExtremeTemperature",0
+"1744","Puerto Rico","Fog",0
+"1745","Puerto Rico","Wildfires",0
+"1746","Puerto Rico","GlacialLakeOutbursts",0
+"1747","Puerto Rico","Landslides",12.6
+"1748","Puerto Rico","VolcanicActivities",0
+"1749","Puerto Rico","MassMovements",0
+"1750","Qatar","Drought",0
+"1751","Qatar","Earthquakes",0
+"1752","Qatar","Floods",0
+"1753","Qatar","Storms",0
+"1754","Qatar","ExtremeTemperature",0
+"1755","Qatar","Fog",0
+"1756","Qatar","Wildfires",0
+"1757","Qatar","GlacialLakeOutbursts",0
+"1758","Qatar","Landslides",0
+"1759","Qatar","VolcanicActivities",0
+"1760","Qatar","MassMovements",0
+"1761","Reunion","Drought",0
+"1762","Reunion","Earthquakes",0
+"1763","Reunion","Floods",0
+"1764","Reunion","Storms",22.9
+"1765","Reunion","ExtremeTemperature",0
+"1766","Reunion","Fog",0
+"1767","Reunion","Wildfires",0
+"1768","Reunion","GlacialLakeOutbursts",0
+"1769","Reunion","Landslides",1
+"1770","Reunion","VolcanicActivities",0
+"1771","Reunion","MassMovements",0
+"1772","Romania","Drought",0
+"1773","Romania","Earthquakes",263
+"1774","Romania","Floods",171.5
+"1775","Romania","Storms",5.9
+"1776","Romania","ExtremeTemperature",53.1
+"1777","Romania","Fog",0
+"1778","Romania","Wildfires",0
+"1779","Romania","GlacialLakeOutbursts",0
+"1780","Romania","Landslides",0
+"1781","Romania","VolcanicActivities",0
+"1782","Romania","MassMovements",0
+"1783","Russia","Drought",0
+"1784","Russia","Earthquakes",201.9
+"1785","Russia","Floods",76.6
+"1786","Russia","Storms",22.8
+"1787","Russia","ExtremeTemperature",5791.4
+"1788","Russia","Fog",0
+"1789","Russia","Wildfires",16.9
+"1790","Russia","GlacialLakeOutbursts",0
+"1791","Russia","Landslides",47.4
+"1792","Russia","VolcanicActivities",0
+"1793","Russia","MassMovements",0
+"1794","Rwanda","Drought",23.7
+"1795","Rwanda","Earthquakes",8.1
+"1796","Rwanda","Floods",33.3
+"1797","Rwanda","Storms",0.3
+"1798","Rwanda","ExtremeTemperature",0
+"1799","Rwanda","Fog",0
+"1800","Rwanda","Wildfires",0
+"1801","Rwanda","GlacialLakeOutbursts",0
+"1802","Rwanda","Landslides",11.3
+"1803","Rwanda","VolcanicActivities",0
+"1804","Rwanda","MassMovements",0
+"1805","Saint Barthelemy","Drought",0
+"1806","Saint Barthelemy","Earthquakes",0
+"1807","Saint Barthelemy","Floods",0
+"1808","Saint Barthelemy","Storms",0.4
+"1809","Saint Barthelemy","ExtremeTemperature",0
+"1810","Saint Barthelemy","Fog",0
+"1811","Saint Barthelemy","Wildfires",0
+"1812","Saint Barthelemy","GlacialLakeOutbursts",0
+"1813","Saint Barthelemy","Landslides",0
+"1814","Saint Barthelemy","VolcanicActivities",0
+"1815","Saint Barthelemy","MassMovements",0
+"1816","Saint Helena, Ascension and Tristan da Cunha","Drought",0
+"1817","Saint Helena, Ascension and Tristan da Cunha","Earthquakes",0
+"1818","Saint Helena, Ascension and Tristan da Cunha","Floods",0
+"1819","Saint Helena, Ascension and Tristan da Cunha","Storms",0
+"1820","Saint Helena, Ascension and Tristan da Cunha","ExtremeTemperature",0
+"1821","Saint Helena, Ascension and Tristan da Cunha","Fog",0
+"1822","Saint Helena, Ascension and Tristan da Cunha","Wildfires",0
+"1823","Saint Helena, Ascension and Tristan da Cunha","GlacialLakeOutbursts",0
+"1824","Saint Helena, Ascension and Tristan da Cunha","Landslides",0
+"1825","Saint Helena, Ascension and Tristan da Cunha","VolcanicActivities",0
+"1826","Saint Helena, Ascension and Tristan da Cunha","MassMovements",0
+"1827","Saint Kitts and Nevis","Drought",0
+"1828","Saint Kitts and Nevis","Earthquakes",0
+"1829","Saint Kitts and Nevis","Floods",0
+"1830","Saint Kitts and Nevis","Storms",0.6
+"1831","Saint Kitts and Nevis","ExtremeTemperature",0
+"1832","Saint Kitts and Nevis","Fog",0
+"1833","Saint Kitts and Nevis","Wildfires",0
+"1834","Saint Kitts and Nevis","GlacialLakeOutbursts",0
+"1835","Saint Kitts and Nevis","Landslides",0
+"1836","Saint Kitts and Nevis","VolcanicActivities",0
+"1837","Saint Kitts and Nevis","MassMovements",0
+"1838","Saint Lucia","Drought",0
+"1839","Saint Lucia","Earthquakes",0
+"1840","Saint Lucia","Floods",0.6
+"1841","Saint Lucia","Storms",3.8
+"1842","Saint Lucia","ExtremeTemperature",0
+"1843","Saint Lucia","Fog",0
+"1844","Saint Lucia","Wildfires",0
+"1845","Saint Lucia","GlacialLakeOutbursts",0
+"1846","Saint Lucia","Landslides",0
+"1847","Saint Lucia","VolcanicActivities",0
+"1848","Saint Lucia","MassMovements",0
+"1849","Saint Martin (French Part)","Drought",0
+"1850","Saint Martin (French Part)","Earthquakes",0
+"1851","Saint Martin (French Part)","Floods",0
+"1852","Saint Martin (French Part)","Storms",1.2
+"1853","Saint Martin (French Part)","ExtremeTemperature",0
+"1854","Saint Martin (French Part)","Fog",0
+"1855","Saint Martin (French Part)","Wildfires",0
+"1856","Saint Martin (French Part)","GlacialLakeOutbursts",0
+"1857","Saint Martin (French Part)","Landslides",0
+"1858","Saint Martin (French Part)","VolcanicActivities",0
+"1859","Saint Martin (French Part)","MassMovements",0
+"1860","Saint Vincent and the Grenadines","Drought",0
+"1861","Saint Vincent and the Grenadines","Earthquakes",0
+"1862","Saint Vincent and the Grenadines","Floods",1.5
+"1863","Saint Vincent and the Grenadines","Storms",12.9
+"1864","Saint Vincent and the Grenadines","ExtremeTemperature",0
+"1865","Saint Vincent and the Grenadines","Fog",0
+"1866","Saint Vincent and the Grenadines","Wildfires",0
+"1867","Saint Vincent and the Grenadines","GlacialLakeOutbursts",0
+"1868","Saint Vincent and the Grenadines","Landslides",0
+"1869","Saint Vincent and the Grenadines","VolcanicActivities",156.7
+"1870","Saint Vincent and the Grenadines","MassMovements",0
+"1871","Samoa","Drought",0
+"1872","Samoa","Earthquakes",14.8
+"1873","Samoa","Floods",0
+"1874","Samoa","Storms",30.3
+"1875","Samoa","ExtremeTemperature",0
+"1876","Samoa","Fog",0
+"1877","Samoa","Wildfires",0
+"1878","Samoa","GlacialLakeOutbursts",0
+"1879","Samoa","Landslides",0
+"1880","Samoa","VolcanicActivities",0
+"1881","Samoa","MassMovements",0
+"1882","Sao Tome and Principe","Drought",0
+"1883","Sao Tome and Principe","Earthquakes",0
+"1884","Sao Tome and Principe","Floods",0
+"1885","Sao Tome and Principe","Storms",0
+"1886","Sao Tome and Principe","ExtremeTemperature",0
+"1887","Sao Tome and Principe","Fog",0
+"1888","Sao Tome and Principe","Wildfires",0
+"1889","Sao Tome and Principe","GlacialLakeOutbursts",0
+"1890","Sao Tome and Principe","Landslides",0
+"1891","Sao Tome and Principe","VolcanicActivities",0
+"1892","Sao Tome and Principe","MassMovements",0
+"1893","Saudi Arabia","Drought",0
+"1894","Saudi Arabia","Earthquakes",0
+"1895","Saudi Arabia","Floods",47.3
+"1896","Saudi Arabia","Storms",0.3
+"1897","Saudi Arabia","ExtremeTemperature",0
+"1898","Saudi Arabia","Fog",0
+"1899","Saudi Arabia","Wildfires",0
+"1900","Saudi Arabia","GlacialLakeOutbursts",0
+"1901","Saudi Arabia","Landslides",0
+"1902","Saudi Arabia","VolcanicActivities",0
+"1903","Saudi Arabia","MassMovements",0
+"1904","Senegal","Drought",0
+"1905","Senegal","Earthquakes",0
+"1906","Senegal","Floods",9.1
+"1907","Senegal","Storms",18.9
+"1908","Senegal","ExtremeTemperature",0
+"1909","Senegal","Fog",0
+"1910","Senegal","Wildfires",0
+"1911","Senegal","GlacialLakeOutbursts",0
+"1912","Senegal","Landslides",0
+"1913","Senegal","VolcanicActivities",0
+"1914","Senegal","MassMovements",0
+"1915","Serbia","Drought",0
+"1916","Serbia","Earthquakes",0.2
+"1917","Serbia","Floods",5.8
+"1918","Serbia","Storms",0
+"1919","Serbia","ExtremeTemperature",3.6
+"1920","Serbia","Fog",0
+"1921","Serbia","Wildfires",0
+"1922","Serbia","GlacialLakeOutbursts",0
+"1923","Serbia","Landslides",0
+"1924","Serbia","VolcanicActivities",0
+"1925","Serbia","MassMovements",0
+"1926","Serbia-Montenegro","Drought",0
+"1927","Serbia-Montenegro","Earthquakes",0.1
+"1928","Serbia-Montenegro","Floods",1.4
+"1929","Serbia-Montenegro","Storms",0
+"1930","Serbia-Montenegro","ExtremeTemperature",0.6
+"1931","Serbia-Montenegro","Fog",0
+"1932","Serbia-Montenegro","Wildfires",0
+"1933","Serbia-Montenegro","GlacialLakeOutbursts",0
+"1934","Serbia-Montenegro","Landslides",0
+"1935","Serbia-Montenegro","VolcanicActivities",0
+"1936","Serbia-Montenegro","MassMovements",0
+"1937","Seychelles","Drought",0
+"1938","Seychelles","Earthquakes",0.3
+"1939","Seychelles","Floods",0.5
+"1940","Seychelles","Storms",0
+"1941","Seychelles","ExtremeTemperature",0
+"1942","Seychelles","Fog",0
+"1943","Seychelles","Wildfires",0
+"1944","Seychelles","GlacialLakeOutbursts",0
+"1945","Seychelles","Landslides",0
+"1946","Seychelles","VolcanicActivities",0
+"1947","Seychelles","MassMovements",0
+"1948","Sierra Leone","Drought",0
+"1949","Sierra Leone","Earthquakes",0
+"1950","Sierra Leone","Floods",18.3
+"1951","Sierra Leone","Storms",7.4
+"1952","Sierra Leone","ExtremeTemperature",0
+"1953","Sierra Leone","Fog",0
+"1954","Sierra Leone","Wildfires",0
+"1955","Sierra Leone","GlacialLakeOutbursts",0
+"1956","Sierra Leone","Landslides",111.8
+"1957","Sierra Leone","VolcanicActivities",0
+"1958","Sierra Leone","MassMovements",0
+"1959","Sint Maarten (Dutch part)","Drought",0
+"1960","Sint Maarten (Dutch part)","Earthquakes",0
+"1961","Sint Maarten (Dutch part)","Floods",0
+"1962","Sint Maarten (Dutch part)","Storms",0.4
+"1963","Sint Maarten (Dutch part)","ExtremeTemperature",0
+"1964","Sint Maarten (Dutch part)","Fog",0
+"1965","Sint Maarten (Dutch part)","Wildfires",0
+"1966","Sint Maarten (Dutch part)","GlacialLakeOutbursts",0
+"1967","Sint Maarten (Dutch part)","Landslides",0
+"1968","Sint Maarten (Dutch part)","VolcanicActivities",0
+"1969","Sint Maarten (Dutch part)","MassMovements",0
+"1970","Slovakia","Drought",0
+"1971","Slovakia","Earthquakes",0
+"1972","Slovakia","Floods",6.5
+"1973","Slovakia","Storms",0.3
+"1974","Slovakia","ExtremeTemperature",12.8
+"1975","Slovakia","Fog",0
+"1976","Slovakia","Wildfires",0.6
+"1977","Slovakia","GlacialLakeOutbursts",0
+"1978","Slovakia","Landslides",0
+"1979","Slovakia","VolcanicActivities",0
+"1980","Slovakia","MassMovements",0
+"1981","Slovenia","Drought",0
+"1982","Slovenia","Earthquakes",0.1
+"1983","Slovenia","Floods",0.3
+"1984","Slovenia","Storms",0.6
+"1985","Slovenia","ExtremeTemperature",29
+"1986","Slovenia","Fog",0
+"1987","Slovenia","Wildfires",0
+"1988","Slovenia","GlacialLakeOutbursts",0
+"1989","Slovenia","Landslides",0
+"1990","Slovenia","VolcanicActivities",0
+"1991","Slovenia","MassMovements",0
+"1992","Solomon Islands","Drought",0
+"1993","Solomon Islands","Earthquakes",36.5
+"1994","Solomon Islands","Floods",7
+"1995","Solomon Islands","Storms",33.2
+"1996","Solomon Islands","ExtremeTemperature",0
+"1997","Solomon Islands","Fog",0
+"1998","Solomon Islands","Wildfires",0
+"1999","Solomon Islands","GlacialLakeOutbursts",0
+"2000","Solomon Islands","Landslides",0
+"2001","Solomon Islands","VolcanicActivities",0
+"2002","Solomon Islands","MassMovements",0
+"2003","Somalia","Drought",3967.3
+"2004","Somalia","Earthquakes",29.8
+"2005","Somalia","Floods",289.3
+"2006","Somalia","Storms",25.1
+"2007","Somalia","ExtremeTemperature",0
+"2008","Somalia","Fog",0
+"2009","Somalia","Wildfires",0
+"2010","Somalia","GlacialLakeOutbursts",0
+"2011","Somalia","Landslides",0
+"2012","Somalia","VolcanicActivities",0
+"2013","Somalia","MassMovements",0
+"2014","South Africa","Drought",0
+"2015","South Africa","Earthquakes",3.7
+"2016","South Africa","Floods",137.3
+"2017","South Africa","Storms",29.9
+"2018","South Africa","ExtremeTemperature",6.3
+"2019","South Africa","Fog",0
+"2020","South Africa","Wildfires",13.7
+"2021","South Africa","GlacialLakeOutbursts",0
+"2022","South Africa","Landslides",3.4
+"2023","South Africa","VolcanicActivities",0
+"2024","South Africa","MassMovements",0
+"2025","South America","Drought",4.4
+"2026","South America","Earthquakes",15601.2
+"2027","South America","Floods",4862.5
+"2028","South America","Storms",182.2
+"2029","South America","ExtremeTemperature",263.6
+"2030","South America","Fog",0
+"2031","South America","Wildfires",13.3
+"2032","South America","GlacialLakeOutbursts",0
+"2033","South America","Landslides",1569.8
+"2034","South America","VolcanicActivities",2294.2
+"2035","South America","MassMovements",230.7
+"2036","South Korea","Drought",0
+"2037","South Korea","Earthquakes",0
+"2038","South Korea","Floods",403.7
+"2039","South Korea","Storms",436
+"2040","South Korea","ExtremeTemperature",4.6
+"2041","South Korea","Fog",0
+"2042","South Korea","Wildfires",0.3
+"2043","South Korea","GlacialLakeOutbursts",0
+"2044","South Korea","Landslides",40.5
+"2045","South Korea","VolcanicActivities",0
+"2046","South Korea","MassMovements",0
+"2047","South Sudan","Drought",0
+"2048","South Sudan","Earthquakes",0
+"2049","South Sudan","Floods",16.6
+"2050","South Sudan","Storms",0
+"2051","South Sudan","ExtremeTemperature",0
+"2052","South Sudan","Fog",0
+"2053","South Sudan","Wildfires",5
+"2054","South Sudan","GlacialLakeOutbursts",0
+"2055","South Sudan","Landslides",0
+"2056","South Sudan","VolcanicActivities",0
+"2057","South Sudan","MassMovements",0
+"2058","Soviet Union","Drought",120000
+"2059","Soviet Union","Earthquakes",14405.7
+"2060","Soviet Union","Floods",14.8
+"2061","Soviet Union","Storms",46.4
+"2062","Soviet Union","ExtremeTemperature",0
+"2063","Soviet Union","Fog",0
+"2064","Soviet Union","Wildfires",0
+"2065","Soviet Union","GlacialLakeOutbursts",0
+"2066","Soviet Union","Landslides",1232.5
+"2067","Soviet Union","VolcanicActivities",0
+"2068","Soviet Union","MassMovements",10.2
+"2069","Spain","Drought",0
+"2070","Spain","Earthquakes",2.1
+"2071","Spain","Floods",136.3
+"2072","Spain","Storms",22.9
+"2073","Spain","ExtremeTemperature",1564
+"2074","Spain","Fog",0
+"2075","Spain","Wildfires",7.4
+"2076","Spain","GlacialLakeOutbursts",0
+"2077","Spain","Landslides",8.4
+"2078","Spain","VolcanicActivities",0
+"2079","Spain","MassMovements",0
+"2080","Sri Lanka","Drought",0
+"2081","Sri Lanka","Earthquakes",3539.9
+"2082","Sri Lanka","Floods",200.7
+"2083","Sri Lanka","Storms",121.6
+"2084","Sri Lanka","ExtremeTemperature",0
+"2085","Sri Lanka","Fog",0
+"2086","Sri Lanka","Wildfires",0
+"2087","Sri Lanka","GlacialLakeOutbursts",0
+"2088","Sri Lanka","Landslides",36
+"2089","Sri Lanka","VolcanicActivities",0
+"2090","Sri Lanka","MassMovements",0
+"2091","Sudan","Drought",15000
+"2092","Sudan","Earthquakes",0.3
+"2093","Sudan","Floods",121.1
+"2094","Sudan","Storms",5.3
+"2095","Sudan","ExtremeTemperature",1.6
+"2096","Sudan","Fog",0
+"2097","Sudan","Wildfires",4.7
+"2098","Sudan","GlacialLakeOutbursts",0
+"2099","Sudan","Landslides",0
+"2100","Sudan","VolcanicActivities",0
+"2101","Sudan","MassMovements",0
+"2102","Suriname","Drought",0
+"2103","Suriname","Earthquakes",0
+"2104","Suriname","Floods",0.5
+"2105","Suriname","Storms",0
+"2106","Suriname","ExtremeTemperature",0
+"2107","Suriname","Fog",0
+"2108","Suriname","Wildfires",0
+"2109","Suriname","GlacialLakeOutbursts",0
+"2110","Suriname","Landslides",0
+"2111","Suriname","VolcanicActivities",0
+"2112","Suriname","MassMovements",0
+"2113","Sweden","Drought",0
+"2114","Sweden","Earthquakes",0
+"2115","Sweden","Floods",1.1
+"2116","Sweden","Storms",1.8
+"2117","Sweden","ExtremeTemperature",0
+"2118","Sweden","Fog",0
+"2119","Sweden","Wildfires",0
+"2120","Sweden","GlacialLakeOutbursts",0
+"2121","Sweden","Landslides",1.3
+"2122","Sweden","VolcanicActivities",0
+"2123","Sweden","MassMovements",0
+"2124","Switzerland","Drought",0
+"2125","Switzerland","Earthquakes",0
+"2126","Switzerland","Floods",1
+"2127","Switzerland","Storms",2.8
+"2128","Switzerland","ExtremeTemperature",105
+"2129","Switzerland","Fog",0
+"2130","Switzerland","Wildfires",0
+"2131","Switzerland","GlacialLakeOutbursts",0
+"2132","Switzerland","Landslides",29.5
+"2133","Switzerland","VolcanicActivities",0
+"2134","Switzerland","MassMovements",0.8
+"2135","Syria","Drought",0
+"2136","Syria","Earthquakes",0
+"2137","Syria","Floods",0.8
+"2138","Syria","Storms",4.5
+"2139","Syria","ExtremeTemperature",0
+"2140","Syria","Fog",0
+"2141","Syria","Wildfires",0
+"2142","Syria","GlacialLakeOutbursts",0
+"2143","Syria","Landslides",8
+"2144","Syria","VolcanicActivities",0
+"2145","Syria","MassMovements",0
+"2146","Taiwan","Drought",0
+"2147","Taiwan","Earthquakes",1085.6
+"2148","Taiwan","Floods",11.9
+"2149","Taiwan","Storms",579.8
+"2150","Taiwan","ExtremeTemperature",8.5
+"2151","Taiwan","Fog",0
+"2152","Taiwan","Wildfires",0
+"2153","Taiwan","GlacialLakeOutbursts",0
+"2154","Taiwan","Landslides",1.4
+"2155","Taiwan","VolcanicActivities",0
+"2156","Taiwan","MassMovements",0
+"2157","Tajikistan","Drought",0
+"2158","Tajikistan","Earthquakes",28.6
+"2159","Tajikistan","Floods",162.2
+"2160","Tajikistan","Storms",0
+"2161","Tajikistan","ExtremeTemperature",0.1
+"2162","Tajikistan","Fog",0
+"2163","Tajikistan","Wildfires",0
+"2164","Tajikistan","GlacialLakeOutbursts",0
+"2165","Tajikistan","Landslides",37.8
+"2166","Tajikistan","VolcanicActivities",0
+"2167","Tajikistan","MassMovements",1.2
+"2168","Tanzania","Drought",0
+"2169","Tanzania","Earthquakes",3.6
+"2170","Tanzania","Floods",83.3
+"2171","Tanzania","Storms",5.1
+"2172","Tanzania","ExtremeTemperature",0
+"2173","Tanzania","Fog",0
+"2174","Tanzania","Wildfires",0
+"2175","Tanzania","GlacialLakeOutbursts",0
+"2176","Tanzania","Landslides",1.3
+"2177","Tanzania","VolcanicActivities",0
+"2178","Tanzania","MassMovements",0
+"2179","Thailand","Drought",0
+"2180","Thailand","Earthquakes",834.7
+"2181","Thailand","Floods",413.7
+"2182","Thailand","Storms",172.4
+"2183","Thailand","ExtremeTemperature",7.7
+"2184","Thailand","Fog",0
+"2185","Thailand","Wildfires",0
+"2186","Thailand","GlacialLakeOutbursts",0
+"2187","Thailand","Landslides",4.7
+"2188","Thailand","VolcanicActivities",0
+"2189","Thailand","MassMovements",0
+"2190","Timor","Drought",0
+"2191","Timor","Earthquakes",0
+"2192","Timor","Floods",0.5
+"2193","Timor","Storms",0
+"2194","Timor","ExtremeTemperature",0
+"2195","Timor","Fog",0
+"2196","Timor","Wildfires",0
+"2197","Timor","GlacialLakeOutbursts",0
+"2198","Timor","Landslides",0
+"2199","Timor","VolcanicActivities",0
+"2200","Timor","MassMovements",0
+"2201","Togo","Drought",0
+"2202","Togo","Earthquakes",0
+"2203","Togo","Floods",7.2
+"2204","Togo","Storms",0
+"2205","Togo","ExtremeTemperature",0
+"2206","Togo","Fog",0
+"2207","Togo","Wildfires",0
+"2208","Togo","GlacialLakeOutbursts",0
+"2209","Togo","Landslides",0
+"2210","Togo","VolcanicActivities",0
+"2211","Togo","MassMovements",0
+"2212","Tonga","Drought",0
+"2213","Tonga","Earthquakes",1
+"2214","Tonga","Floods",0
+"2215","Tonga","Storms",1.4
+"2216","Tonga","ExtremeTemperature",0
+"2217","Tonga","Fog",0
+"2218","Tonga","Wildfires",0
+"2219","Tonga","GlacialLakeOutbursts",0
+"2220","Tonga","Landslides",0
+"2221","Tonga","VolcanicActivities",0
+"2222","Tonga","MassMovements",0
+"2223","Trinidad and Tobago","Drought",0
+"2224","Trinidad and Tobago","Earthquakes",0
+"2225","Trinidad and Tobago","Floods",0.5
+"2226","Trinidad and Tobago","Storms",4
+"2227","Trinidad and Tobago","ExtremeTemperature",0
+"2228","Trinidad and Tobago","Fog",0
+"2229","Trinidad and Tobago","Wildfires",0
+"2230","Trinidad and Tobago","GlacialLakeOutbursts",0
+"2231","Trinidad and Tobago","Landslides",0.2
+"2232","Trinidad and Tobago","VolcanicActivities",0
+"2233","Trinidad and Tobago","MassMovements",0
+"2234","Tunisia","Drought",0
+"2235","Tunisia","Earthquakes",1.3
+"2236","Tunisia","Floods",97.5
+"2237","Tunisia","Storms",0
+"2238","Tunisia","ExtremeTemperature",0
+"2239","Tunisia","Fog",0
+"2240","Tunisia","Wildfires",0
+"2241","Tunisia","GlacialLakeOutbursts",0
+"2242","Tunisia","Landslides",0
+"2243","Tunisia","VolcanicActivities",0
+"2244","Tunisia","MassMovements",0
+"2245","Turkey","Drought",0
+"2246","Turkey","Earthquakes",9384.7
+"2247","Turkey","Floods",137.7
+"2248","Turkey","Storms",9.8
+"2249","Turkey","ExtremeTemperature",10
+"2250","Turkey","Fog",0
+"2251","Turkey","Wildfires",1.5
+"2252","Turkey","GlacialLakeOutbursts",0
+"2253","Turkey","Landslides",46.3
+"2254","Turkey","VolcanicActivities",0
+"2255","Turkey","MassMovements",26.1
+"2256","Turkmenistan","Drought",0
+"2257","Turkmenistan","Earthquakes",1.1
+"2258","Turkmenistan","Floods",0
+"2259","Turkmenistan","Storms",0
+"2260","Turkmenistan","ExtremeTemperature",0
+"2261","Turkmenistan","Fog",0
+"2262","Turkmenistan","Wildfires",0
+"2263","Turkmenistan","GlacialLakeOutbursts",0
+"2264","Turkmenistan","Landslides",0
+"2265","Turkmenistan","VolcanicActivities",0
+"2266","Turkmenistan","MassMovements",0
+"2267","Turks and Caicos Islands","Drought",0
+"2268","Turks and Caicos Islands","Earthquakes",0
+"2269","Turks and Caicos Islands","Floods",0
+"2270","Turks and Caicos Islands","Storms",0.4
+"2271","Turks and Caicos Islands","ExtremeTemperature",0
+"2272","Turks and Caicos Islands","Fog",0
+"2273","Turks and Caicos Islands","Wildfires",0
+"2274","Turks and Caicos Islands","GlacialLakeOutbursts",0
+"2275","Turks and Caicos Islands","Landslides",0
+"2276","Turks and Caicos Islands","VolcanicActivities",0
+"2277","Turks and Caicos Islands","MassMovements",0
+"2278","Tuvalu","Drought",0
+"2279","Tuvalu","Earthquakes",0
+"2280","Tuvalu","Floods",0
+"2281","Tuvalu","Storms",0.6
+"2282","Tuvalu","ExtremeTemperature",0
+"2283","Tuvalu","Fog",0
+"2284","Tuvalu","Wildfires",0
+"2285","Tuvalu","GlacialLakeOutbursts",0
+"2286","Tuvalu","Landslides",0
+"2287","Tuvalu","VolcanicActivities",0
+"2288","Tuvalu","MassMovements",0
+"2289","Uganda","Drought",19.4
+"2290","Uganda","Earthquakes",11.5
+"2291","Uganda","Floods",41.2
+"2292","Uganda","Storms",2.3
+"2293","Uganda","ExtremeTemperature",0
+"2294","Uganda","Fog",0
+"2295","Uganda","Wildfires",0
+"2296","Uganda","GlacialLakeOutbursts",0
+"2297","Uganda","Landslides",59.1
+"2298","Uganda","VolcanicActivities",0
+"2299","Uganda","MassMovements",0
+"2300","Ukraine","Drought",0
+"2301","Ukraine","Earthquakes",0
+"2302","Ukraine","Floods",8.7
+"2303","Ukraine","Storms",2.1
+"2304","Ukraine","ExtremeTemperature",110.2
+"2305","Ukraine","Fog",0
+"2306","Ukraine","Wildfires",0
+"2307","Ukraine","GlacialLakeOutbursts",0
+"2308","Ukraine","Landslides",0
+"2309","Ukraine","VolcanicActivities",0
+"2310","Ukraine","MassMovements",0
+"2311","United Arab Emirates","Drought",0
+"2312","United Arab Emirates","Earthquakes",0
+"2313","United Arab Emirates","Floods",0
+"2314","United Arab Emirates","Storms",0
+"2315","United Arab Emirates","ExtremeTemperature",0
+"2316","United Arab Emirates","Fog",0
+"2317","United Arab Emirates","Wildfires",0
+"2318","United Arab Emirates","GlacialLakeOutbursts",0
+"2319","United Arab Emirates","Landslides",0
+"2320","United Arab Emirates","VolcanicActivities",0
+"2321","United Arab Emirates","MassMovements",0
+"2322","United Kingdom","Drought",0
+"2323","United Kingdom","Earthquakes",0
+"2324","United Kingdom","Floods",9.4
+"2325","United Kingdom","Storms",35.7
+"2326","United Kingdom","ExtremeTemperature",108.4
+"2327","United Kingdom","Fog",400
+"2328","United Kingdom","Wildfires",0
+"2329","United Kingdom","GlacialLakeOutbursts",0
+"2330","United Kingdom","Landslides",14
+"2331","United Kingdom","VolcanicActivities",0
+"2332","United Kingdom","MassMovements",0
+"2333","United States","Drought",0
+"2334","United States","Earthquakes",148.2
+"2335","United States","Floods",302.3
+"2336","United States","Storms",3081.3
+"2337","United States","ExtremeTemperature",520.1
+"2338","United States","Fog",0
+"2339","United States","Wildfires",145
+"2340","United States","GlacialLakeOutbursts",0
+"2341","United States","Landslides",67.9
+"2342","United States","VolcanicActivities",9
+"2343","United States","MassMovements",0
+"2344","United States Virgin Islands","Drought",0
+"2345","United States Virgin Islands","Earthquakes",0
+"2346","United States Virgin Islands","Floods",0
+"2347","United States Virgin Islands","Storms",1.7
+"2348","United States Virgin Islands","ExtremeTemperature",0
+"2349","United States Virgin Islands","Fog",0
+"2350","United States Virgin Islands","Wildfires",0
+"2351","United States Virgin Islands","GlacialLakeOutbursts",0
+"2352","United States Virgin Islands","Landslides",0
+"2353","United States Virgin Islands","VolcanicActivities",0
+"2354","United States Virgin Islands","MassMovements",0
+"2355","Upper middle income","Drought",351295.9
+"2356","Upper middle income","Earthquakes",126056.9
+"2357","Upper middle income","Floods",673961.6
+"2358","Upper middle income","Storms",20517.1
+"2359","Upper middle income","ExtremeTemperature",6278.3
+"2360","Upper middle income","Fog",0
+"2361","Upper middle income","Wildfires",114.5
+"2362","Upper middle income","GlacialLakeOutbursts",0
+"2363","Upper middle income","Landslides",2604.2
+"2364","Upper middle income","VolcanicActivities",4634.7
+"2365","Upper middle income","MassMovements",339
+"2366","Uruguay","Drought",0
+"2367","Uruguay","Earthquakes",0
+"2368","Uruguay","Floods",2.2
+"2369","Uruguay","Storms",1.1
+"2370","Uruguay","ExtremeTemperature",1.1
+"2371","Uruguay","Fog",0
+"2372","Uruguay","Wildfires",0
+"2373","Uruguay","GlacialLakeOutbursts",0
+"2374","Uruguay","Landslides",0
+"2375","Uruguay","VolcanicActivities",0
+"2376","Uruguay","MassMovements",0
+"2377","Uzbekistan","Drought",0
+"2378","Uzbekistan","Earthquakes",2.2
+"2379","Uzbekistan","Floods",0
+"2380","Uzbekistan","Storms",0
+"2381","Uzbekistan","ExtremeTemperature",0
+"2382","Uzbekistan","Fog",0
+"2383","Uzbekistan","Wildfires",0
+"2384","Uzbekistan","GlacialLakeOutbursts",0
+"2385","Uzbekistan","Landslides",2.4
+"2386","Uzbekistan","VolcanicActivities",0
+"2387","Uzbekistan","MassMovements",0.1
+"2388","Vanuatu","Drought",0
+"2389","Vanuatu","Earthquakes",1.2
+"2390","Vanuatu","Floods",0
+"2391","Vanuatu","Storms",22.6
+"2392","Vanuatu","ExtremeTemperature",0
+"2393","Vanuatu","Fog",0
+"2394","Vanuatu","Wildfires",0
+"2395","Vanuatu","GlacialLakeOutbursts",0
+"2396","Vanuatu","Landslides",0.1
+"2397","Vanuatu","VolcanicActivities",0
+"2398","Vanuatu","MassMovements",0
+"2399","Venezuela","Drought",0
+"2400","Venezuela","Earthquakes",42.3
+"2401","Venezuela","Floods",3040.4
+"2402","Venezuela","Storms",12.4
+"2403","Venezuela","ExtremeTemperature",0
+"2404","Venezuela","Fog",0
+"2405","Venezuela","Wildfires",0
+"2406","Venezuela","GlacialLakeOutbursts",0
+"2407","Venezuela","Landslides",16.4
+"2408","Venezuela","VolcanicActivities",0
+"2409","Venezuela","MassMovements",0
+"2410","Vietnam","Drought",0
+"2411","Vietnam","Earthquakes",0
+"2412","Vietnam","Floods",601
+"2413","Vietnam","Storms",1937.5
+"2414","Vietnam","ExtremeTemperature",0
+"2415","Vietnam","Fog",0
+"2416","Vietnam","Wildfires",0
+"2417","Vietnam","GlacialLakeOutbursts",0
+"2418","Vietnam","Landslides",33
+"2419","Vietnam","VolcanicActivities",0
+"2420","Vietnam","MassMovements",0
+"2421","Wallis and Futuna","Drought",0
+"2422","Wallis and Futuna","Earthquakes",0.5
+"2423","Wallis and Futuna","Floods",0
+"2424","Wallis and Futuna","Storms",0.1
+"2425","Wallis and Futuna","ExtremeTemperature",0
+"2426","Wallis and Futuna","Fog",0
+"2427","Wallis and Futuna","Wildfires",0
+"2428","Wallis and Futuna","GlacialLakeOutbursts",0
+"2429","Wallis and Futuna","Landslides",0
+"2430","Wallis and Futuna","VolcanicActivities",0
+"2431","Wallis and Futuna","MassMovements",0
+"2432","World","Drought",1173137.9
+"2433","World","Earthquakes",233655
+"2434","World","Floods",698464.2
+"2435","World","Storms",139806.4
+"2436","World","ExtremeTemperature",18645
+"2437","World","Fog",400
+"2438","World","Wildfires",437.7
+"2439","World","GlacialLakeOutbursts",0
+"2440","World","Landslides",6640.1
+"2441","World","VolcanicActivities",8680.1
+"2442","World","MassMovements",464.4
+"2443","Yemen","Drought",0
+"2444","Yemen","Earthquakes",1
+"2445","Yemen","Floods",94
+"2446","Yemen","Storms",10.5
+"2447","Yemen","ExtremeTemperature",0
+"2448","Yemen","Fog",0
+"2449","Yemen","Wildfires",0
+"2450","Yemen","GlacialLakeOutbursts",0
+"2451","Yemen","Landslides",9.6
+"2452","Yemen","VolcanicActivities",0.6
+"2453","Yemen","MassMovements",0
+"2454","Yugoslavia","Drought",0
+"2455","Yugoslavia","Earthquakes",124.5
+"2456","Yugoslavia","Floods",9.5
+"2457","Yugoslavia","Storms",0
+"2458","Yugoslavia","ExtremeTemperature",3.8
+"2459","Yugoslavia","Fog",0
+"2460","Yugoslavia","Wildfires",0
+"2461","Yugoslavia","GlacialLakeOutbursts",0
+"2462","Yugoslavia","Landslides",0
+"2463","Yugoslavia","VolcanicActivities",0
+"2464","Yugoslavia","MassMovements",0
+"2465","Zambia","Drought",0
+"2466","Zambia","Earthquakes",0
+"2467","Zambia","Floods",7.5
+"2468","Zambia","Storms",0
+"2469","Zambia","ExtremeTemperature",0
+"2470","Zambia","Fog",0
+"2471","Zambia","Wildfires",0
+"2472","Zambia","GlacialLakeOutbursts",0
+"2473","Zambia","Landslides",0.9
+"2474","Zambia","VolcanicActivities",0
+"2475","Zambia","MassMovements",0
+"2476","Zimbabwe","Drought",0
+"2477","Zimbabwe","Earthquakes",0
+"2478","Zimbabwe","Floods",31.3
+"2479","Zimbabwe","Storms",93.9
+"2480","Zimbabwe","ExtremeTemperature",0
+"2481","Zimbabwe","Fog",0
+"2482","Zimbabwe","Wildfires",0
+"2483","Zimbabwe","GlacialLakeOutbursts",0
+"2484","Zimbabwe","Landslides",0
+"2485","Zimbabwe","VolcanicActivities",0
+"2486","Zimbabwe","MassMovements",0
